@@ -1,52 +1,83 @@
-Classification API - User Guide
-This guide assumes that Docker is already installed on your system.
+# Classification API - Usage Guide
 
-Getting Started
-Open a terminal in the project directory and run the following command:
+Docker is assumed to be installed on the system.
 
-Bash
+---
+
+# Running the Application
+
+Open a terminal in the project directory and run:
+
+```bash
 make
-Once the application is up and running, you can access it at:
+```
 
+After the application starts, it will be available at:
+
+```text
 http://localhost:8081
-Make Commands
-Command	Description
-make	Clean, build, and run the application
-make build	Build the Docker image only
-make run	Start the container only
-make stop	Stop the running container
-make clean	Completely remove the container and the image
-API Usage with Postman
-Base URL for all requests: http://localhost:8081/api/v1/news
+```
 
-1. Health Check
-Method: GET
+---
 
-URL: http://localhost:8081/api/v1/news/health
+# Make Commands
 
-Example Response:
+| Command      | Description                          |
+|---------------|--------------------------------------|
+| `make`        | Clean, build, and run the project    |
+| `make build`  | Build the Docker image only          |
+| `make run`    | Start the container only             |
+| `make stop`   | Stop the running container           |
+| `make clean`  | Remove the container and image fully |
 
-JSON
+---
+
+# Using the API with Postman
+
+Base URL for all requests:
+
+```text
+http://localhost:8081/api/v1/news
+```
+
+---
+
+# 1. Health Check
+
+**Method:** `GET`  
+**URL:** `http://localhost:8081/api/v1/news/health`
+
+Example response:
+
+```json
 {
   "status": "ok",
   "service": "classification-api"
 }
-2. News Classification (JSON)
-Method: POST
+```
 
-URL: http://localhost:8081/api/v1/news/classify
+---
 
-In Postman: Select Body > raw > JSON
+# 2. News Classification (JSON)
 
-Example Request:
+**Method:** `POST`  
+**URL:** `http://localhost:8081/api/v1/news/classify`
 
-JSON
+In Postman:
+
+`Body -> raw -> JSON`
+
+Example request:
+
+```json
 {
   "headline": "Central Bank sets the interest rate at 50 percent"
 }
-Example Response:
+```
 
-JSON
+Example response:
+
+```json
 {
   "headline": "Central Bank sets the interest rate at 50 percent",
   "assetType": "BOND",
@@ -58,35 +89,57 @@ JSON
   "unknown": false,
   "modelVersion": "1.0"
 }
-3. News Classification (Plain Text)
-Method: POST
+```
 
-URL: http://localhost:8081/api/v1/news/classify-text
+---
 
-In Postman: Select Body > raw > Text, and enter the news headline as plain text.
+# 3. News Classification (Plain Text)
 
-4. Conservative Classification (JSON)
-Method: POST
+**Method:** `POST`  
+**URL:** `http://localhost:8081/api/v1/news/classify-text`
 
-URL: http://localhost:8081/api/v1/news/classify-safe
+In Postman:
 
-Returns unknown: true for predictions with low confidence scores. Usage is identical to the /classify endpoint.
+`Body -> raw -> Text`
 
-5. Conservative Classification (Plain Text)
-Method: POST
+Send the news headline directly as plain text.
 
-URL: http://localhost:8081/api/v1/news/classify-safe-text
+---
 
-Usage is identical to the /classify-text endpoint.
+# 4. Conservative Classification (JSON)
 
-Response Fields
-Field	Description
-headline	The submitted news headline
-assetType	Predicted asset type (e.g., BOND, FOREX, etc.)
-symbol	Predicted symbol (e.g., TR10Y, USD/TRY, etc.)
-assetScore	Confidence score for the asset type (between 0-1)
-symbolScore	Confidence score for the symbol prediction (between 0-1)
-lexiconSymbol	Result based on dictionary matching
-topCandidates	List of the most probable classification categories
-unknown	Returns true for low-confidence/uncertain predictions
-modelVersion	The version of the model currently in use
+**Method:** `POST`  
+**URL:** `http://localhost:8081/api/v1/news/classify-safe`
+
+Low-confidence predictions are returned with:
+
+```json
+"unknown": true
+```
+
+Usage is the same as `/classify`.
+
+---
+
+# 5. Conservative Classification (Plain Text)
+
+**Method:** `POST`  
+**URL:** `http://localhost:8081/api/v1/news/classify-safe-text`
+
+Usage is the same as `/classify-text`.
+
+---
+
+# Response Fields
+
+| Field            | Description                                             |
+|------------------|---------------------------------------------------------|
+| `headline`       | Submitted news headline                                 |
+| `assetType`      | Predicted asset type (`BOND`, `FOREX`, etc.)            |
+| `symbol`         | Predicted symbol (`TR10Y`, `USD/TRY`, etc.)             |
+| `assetScore`     | Confidence score for asset type prediction (`0-1`)      |
+| `symbolScore`    | Confidence score for symbol prediction (`0-1`)          |
+| `lexiconSymbol`  | Symbol matched from the lexicon                         |
+| `topCandidates`  | List of the most likely classification candidates       |
+| `unknown`        | Returns `true` for low-confidence predictions           |
+| `modelVersion`   | Version of the model used                               |
