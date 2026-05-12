@@ -1,0 +1,4 @@
+release_dir=output/release/release-20260422-194423
+model_file_count=18
+data_file_count=2
+report_file_count=4

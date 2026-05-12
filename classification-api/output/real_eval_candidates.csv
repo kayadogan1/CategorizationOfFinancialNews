@@ -1,0 +1,181 @@
+status,predictedAssetType,predictedSymbol,assetScore,symbolScore,headline
+LOW_CONF,OTHER,UNKNOWN,0.9786,0.0000,Microsoft yapay zeka yatirimlariyla Nasdaq tarafinda dikkat cekti
+LOW_CONF,OTHER,UNKNOWN,0.9823,0.0000,Apple tedarik zinciri beklentileriyle primli acildi
+LOW_CONF,OTHER,UNKNOWN,0.9729,0.0000,VIOP 30 kontratlarinda acilis sonrasi hacim artti
+LOW_CONF,OTHER,UNKNOWN,0.9789,0.0000,Nvidia yeni cip ailesiyle veri merkezi gelirlerini artirmayi hedefliyor
+LOW_CONF,OTHER,UNKNOWN,0.4160,0.0000,TCMB faiz kararinin ardindan piyasalarda oynaklik artti
+LOW_CONF,OTHER,UNKNOWN,0.3309,0.0000,Enflasyon verileri sonrasinda borsada satis baskisi goruldu
+LOW_CONF,OTHER,UNKNOWN,0.9836,0.0000,Petrol fiyatlarindaki gerileme hava yolu sirketlerine destek verdi
+LOW_CONF,OTHER,UNKNOWN,0.9757,0.0000,Google bulut gelirlerindeki ivmeyle gunu arti kapatti
+LOW_CONF,OTHER,UNKNOWN,0.9792,0.0000,Tesla yeni model teslimatlarina iliskin beklentileri karsilayamadi
+LOW_CONF,OTHER,UNKNOWN,0.9849,0.0000,Enflasyon beklentisindeki bozulma tahvil piyasasini baskiladi
+HIGH_CONF,STOCK,THYAO,0.9819,0.9921,THY kargo gelirlerindeki toparlanma ile ikinci ceyrege guclu giris yapti
+HIGH_CONF,STOCK,THYAO,0.7204,0.4373,Turk Hava Yollari uzun menzilli hat kapasitesini artirmayi planliyor
+HIGH_CONF,STOCK,THYAO,0.9759,0.5906,THY yeni ucak finansmani icin uluslararasi bankalarla masada
+HIGH_CONF,STOCK,GARAN,0.9853,0.4785,GARAN komisyon gelirlerindeki artisla piyasanin takibinde kaldi
+HIGH_CONF,STOCK,GARAN,0.8469,0.9890,Garanti BBVA dijital musteri sayisinda yeni esige yaklasti
+HIGH_CONF,STOCK,GARAN,0.9868,0.9890,Garanti Bankasi sendikasyon yenilemesinde yuksek katilim sagladi
+HIGH_CONF,STOCK,AKBNK,0.9816,0.9857,AKBNK tuketici kredilerindeki ivmeyi korumayi hedefliyor
+HIGH_CONF,STOCK,AKBNK,0.9484,0.9940,Akbank net ucret komisyon gelirlerinde guclu buyume yakaladi
+HIGH_CONF,STOCK,AKBNK,0.9887,0.5730,Akbank mobil uygulama kullaniminda yeni rekor acikladi
+HIGH_CONF,STOCK,ISCTR,0.9289,0.9858,ISCTR kurumsal kredi portfoyundeki artisla dikkat cekti
+HIGH_CONF,STOCK,ISCTR,0.9834,0.0157,Is Bankasi istirak gelirlerinin destegiyle one cikiyor
+HIGH_CONF,STOCK,ISCTR,0.9856,0.9881,İşbank yeşil finansman projelerine ayirdigi kaynagi buyuttu
+HIGH_CONF,STOCK,VAKBN,0.9796,0.5631,VAKBN kamu destekli kredi programlariyla izleniyor
+HIGH_CONF,STOCK,VAKBN,0.9856,0.4455,Vakıfbank sermaye yeterlilik rasyosunu guclendirecek adimlar atiyor
+HIGH_CONF,STOCK,YKBNK,0.9839,0.0150,YKBNK odeme sistemleri tarafindaki buyumeyle pozitif ayrisiyor
+HIGH_CONF,STOCK,YKBNK,0.6024,0.0170,Yapi Kredi varlik yonetimi gelirlerini artirmayi hedefliyor
+HIGH_CONF,STOCK,KCHOL,0.9876,0.9886,KCHOL enerji ve otomotiv segmentlerindeki dengeli performansla izlendi
+HIGH_CONF,STOCK,KCHOL,0.6263,0.9963,Koç Holding rafineri ve dayanikli tuketim tarafinda sinerji ariyor
+HIGH_CONF,STOCK,KCHOL,0.6506,0.0451,Koc Holding istiraklerinden gelen temettu akisiyle destek buldu
+HIGH_CONF,STOCK,SAHOL,0.9860,0.9876,SAHOL enerji dagitim ve sigorta tarafiyla one cikti
+HIGH_CONF,STOCK,SAHOL,0.9923,0.5469,Sabanci Holding yeni yatirim doneminde nakit yaratma kapasitesini artirdi
+HIGH_CONF,STOCK,SAHOL,0.9816,0.5661,Sabanci Holding sanayi portfoyundeki verimlilik projelerini hizlandirdi
+HIGH_CONF,STOCK,ASELS,0.9885,0.9885,ASELS yurtiçi savunma siparislerinde yeni teslim takvimi acikladi
+HIGH_CONF,STOCK,ASELS,0.8545,0.4968,Aselsan elektro optik sistemlerde yeni ihracat firsati yakaladi
+HIGH_CONF,STOCK,ASELS,0.3431,0.1084,ASELSAN bakiye siparis buyukluguyle analistlerin radarinda
+HIGH_CONF,STOCK,PGSUS,0.7392,0.5882,PGSUS yaz sezonunda doluluk oranlarini yukari cekmeyi hedefliyor
+HIGH_CONF,STOCK,PGSUS,0.9838,0.9866,Pegasus yan gelir performansindaki guclenmeyle dikkat cekti
+HIGH_CONF,STOCK,PGSUS,0.9864,0.9861,PGSUS filo kullanim verimliligini yeni sezonda artiriyor
+HIGH_CONF,STOCK,TCELL,0.9803,0.5489,TCELL kurumsal veri servislerine gelen taleple guc kazandi
+HIGH_CONF,STOCK,TCELL,0.9796,0.9931,Turkcell superonline aboneliklerinde ivmeyi koruyor
+HIGH_CONF,STOCK,TCELL,0.9865,0.0765,TCELL yurt ici veri tuketimindeki artisi gelirlerine yansitiyor
+HIGH_CONF,STOCK,TTKOM,0.9859,0.0640,TTKOM fiber uzunlugundaki buyumeyle operasyonel kaldirac yakaladi
+HIGH_CONF,STOCK,TTKOM,0.9880,0.9897,Türk Telekom sabit internet abone kazanimi ile izleniyor
+HIGH_CONF,STOCK,TTKOM,0.9852,0.0121,TTKOM veri merkezi yatirim planini yil sonuna kadar netlestirecek
+HIGH_CONF,STOCK,TUPRS,0.9836,0.9941,TUPRS urun spreadlerindeki toparlanmadan yararlanmaya devam ediyor
+HIGH_CONF,STOCK,TUPRS,0.2595,0.4447,Tüpraş planli bakim takvimine ragmen marj performansini korudu
+HIGH_CONF,STOCK,TUPRS,0.9892,0.9955,TUPRS ic talep ve ihracat dengesiyle sektorunde pozitif ayrisiyor
+HIGH_CONF,STOCK,SISE,0.9889,0.4621,SISE duzcam ve kimyasallar segmentindeki talep canlanmasini izliyor
+HIGH_CONF,STOCK,SISE,0.4897,0.4403,Şişecam enerji maliyetlerindeki normallesmeyle marjlarini destekliyor
+HIGH_CONF,STOCK,SISE,0.4274,0.9857,SISE Avrupa pazarindaki siparis akisini guclendirdi
+HIGH_CONF,STOCK,EREGL,0.9362,0.9913,EREGL slab ve yassi celik tarafindaki fiyatlamayi yakindan takip ediyor
+HIGH_CONF,STOCK,EREGL,0.9779,0.9860,Erdemir hammadde maliyetlerindeki gevsemeyle guc kazandi
+HIGH_CONF,STOCK,EREGL,0.9843,0.0378,EREGL ihracat siparislerinin toparlanmasi ile one cikiyor
+HIGH_CONF,STOCK,BIMAS,0.7385,0.4740,BIMAS sepet buyuklugundeki artisla satis momentumunu koruyor
+HIGH_CONF,STOCK,BIMAS,0.9895,0.5804,BİM indirim market segmentinde yeni magaza acilislarini surduruyor
+HIGH_CONF,STOCK,BIMAS,0.2346,0.9881,BIMAS operasyonel disiplinini koruyarak marj baskisini sinirliyor
+HIGH_CONF,STOCK,MGROS,0.8927,0.9914,MGROS taze gida ve online kanalda buyume yakaladi
+HIGH_CONF,STOCK,MGROS,0.6326,0.0681,Migros musteri sadakat programi sayesinde trafik artisi sagladi
+HIGH_CONF,STOCK,MGROS,0.9898,0.5657,MGROS yeni depo otomasyonu yatirimiyla verimlilik hedefliyor
+HIGH_CONF,STOCK,EKGYO,0.6198,0.0780,EKGYO on satis performansiyla nakit akisinda guclenme bekliyor
+HIGH_CONF,STOCK,EKGYO,0.9893,0.4594,Emlak Konut konut kredisi faizlerindeki degisimi yakindan izliyor
+HIGH_CONF,STOCK,EKGYO,0.3299,0.9888,EKGYO yeni etap satislarindan gelecek gelirleri projeksiyonuna ekledi
+HIGH_CONF,STOCK,LOGO,0.9881,0.5385,LOGO bulut yazilim abonelik modelinden daha yuksek gelir uretiyor
+HIGH_CONF,STOCK,LOGO,0.8906,0.5643,Logo Yazilim KOBI tarafinda yeni urun lansmanina hazirlaniyor
+HIGH_CONF,STOCK,NETAS,0.9448,0.5641,NETAS kamu ve savunma projeleriyle siparis birikimini artiriyor
+HIGH_CONF,STOCK,NETAS,0.9169,0.4415,Netaş yurt ici ag altyapi projelerinde yeni ihaleleri takip ediyor
+HIGH_CONF,STOCK,ENJSA,0.6155,0.2927,ENJSA duzenlenmis getiri mekanizmasiyla nakit akisini destekliyor
+HIGH_CONF,STOCK,ENJSA,0.9839,0.5638,Enerjisa dagitim tarafindaki yatirim harcamalarini optimize ediyor
+HIGH_CONF,STOCK,ARCLK,0.6361,0.4352,ARCLK Avrupa talebindeki toparlanma beklentisiyle izleniyor
+LOW_CONF,STOCK,UNKNOWN,0.6425,0.0000,Arcelik premium urun karmasiyla gelir kalitesini artiriyor
+HIGH_CONF,STOCK,FROTO,0.9853,0.4395,FROTO elektrikli ticari arac uretim kapasitesini yukseltecek
+HIGH_CONF,STOCK,FROTO,0.9857,0.0169,Ford Otosan ihracat siparis akisindaki iyilesmeyle destek buldu
+LOW_CONF,STOCK,UNKNOWN,0.8132,0.0000,TOGG yeni teslimat takvimi ve yazilim guncellemesiyle gundemde
+LOW_CONF,OTHER,UNKNOWN,0.9823,0.0000,Togg yerli tedarik zincirini genisletmeye devam ediyor
+HIGH_CONF,INDEX,XU100,0.9795,0.5347,XU100 banka ve holding hisseleriyle gunu arti kapatti
+HIGH_CONF,INDEX,XU100,0.7404,0.9924,BIST 100 endeksi sanayi hisselerindeki alicili seyirle yukseliste
+HIGH_CONF,INDEX,XU030,0.9703,0.9906,XU030 vadeli kontratlarinda gun ortasinda hacim canlandi
+LOW_CONF,OTHER,UNKNOWN,0.9790,0.0000,BIST Banka endeksi kredi buyumesi beklentileriyle one cikti
+HIGH_CONF,FOREX,USDTRY,0.4706,0.9917,Dolar/TL kurunda kapanis oncesi yatay seyir izlendi
+HIGH_CONF,FOREX,USDTRY,0.9857,0.7732,USDTRY kurunda Merkez Bankasi mesajlari sonrasi oynaklik azaldi
+HIGH_CONF,FOREX,EURTRY,0.9830,0.5814,Euro/TL ithalat talebinin etkisiyle yukselisini surdurdu
+HIGH_CONF,FOREX,EURUSD,0.9989,0.3565,EURUSD paritesi ABD verileri sonrasinda toparlanma aradi
+HIGH_CONF,CRYPTO,BTC,0.9726,0.5696,Bitcoin kurumsal alim beklentileriyle yeniden guc kazandi
+HIGH_CONF,CRYPTO,ETH,0.9817,0.2198,Ethereum staking ilgisinin artmasiyla pozitif ayristi
+HIGH_CONF,CRYPTO,SOL,0.9761,0.4722,Solana ag uzerindeki yeni uygulamalar fiyata destek verdi
+HIGH_CONF,CRYPTO,XRP,0.9863,0.6206,XRP odakli dava surecinde iyimserlik fiyatlamasi devam etti
+HIGH_CONF,COMMODITY,BRENT,0.5721,0.8995,Brent petrol arz yonlu endiselerle yuksek seviyelerde kaldi
+HIGH_CONF,COMMODITY,XAUUSD,0.9892,0.5839,Ons altin jeopolitik risklerle guvenli liman talebi gordu
+HIGH_CONF,COMMODITY,XAGUSD,0.4149,0.7847,Ons gumus sanayi kullanim beklentileriyle destek buldu
+HIGH_CONF,BOND,US10Y,0.9839,0.6001,ABD 10 yillik tahvil faizi veri akisi oncesi dengelendi
+HIGH_CONF,STOCK,THYAO,0.3681,0.0155,THYAO yaz sezonu rezervasyonlarindaki ivmeyle analistlerin radarinda
+HIGH_CONF,STOCK,THYAO,0.7788,0.0599,Turk Hava Yollari kargo operasyonlarindaki kapasite artisini surduruyor
+HIGH_CONF,STOCK,THYAO,0.5597,0.0722,THY uzun menzilli filo planlamasinda yeni adimlar atiyor
+HIGH_CONF,STOCK,THYAO,0.8845,0.0717,THYAO yolcu gelirlerindeki toparlanmayla pozitif ayrisiyor
+HIGH_CONF,STOCK,GARAN,0.6323,0.0657,GARAN ticari kredilerdeki buyumeyle sektorunden olumlu ayristi
+HIGH_CONF,STOCK,GARAN,0.9648,0.6961,Garanti BBVA komisyon gelirlerindeki artisla one cikiyor
+HIGH_CONF,STOCK,GARAN,0.8549,0.1972,Garanti Bankasi aktif kalitesindeki dengeli gorunumle izleniyor
+HIGH_CONF,STOCK,GARAN,0.8571,0.2259,GARAN dijital bankacilik kanalinda musteri kazanimi sagliyor
+HIGH_CONF,STOCK,AKBNK,0.4508,0.0653,AKBNK kredi karti harcamalarindaki ivmeyle destek buldu
+HIGH_CONF,STOCK,AKBNK,0.9347,0.0465,Akbank tahsilat performansindaki iyilesmeyle dikkat cekti
+HIGH_CONF,STOCK,AKBNK,0.8934,0.8672,Akbank kurumsal bankacilik gelirlerinde guclu bir ceyrek hedefliyor
+HIGH_CONF,STOCK,AKBNK,0.7423,0.0701,AKBNK fonlama maliyetlerindeki gerilemeyi marjlara yansitiyor
+HIGH_CONF,STOCK,ISCTR,0.2518,0.0675,ISCTR mevduat tabanindaki gucunu koruyarak izleniyor
+HIGH_CONF,STOCK,ISCTR,0.9623,0.0101,Is Bankasi istirak portfoyunden gelen katkilarla one cikti
+HIGH_CONF,STOCK,ISCTR,0.7811,0.2885,İşbank kurumsal kredi buyumesiyle bankacilik endeksine destek verdi
+HIGH_CONF,STOCK,ISCTR,0.7128,0.0678,ISCTR sermaye yeterliligindeki guclu gorunumunu koruyor
+HIGH_CONF,STOCK,VAKBN,0.9511,0.3674,VAKBN kamu destekli finansman paketleriyle gundemde kaldi
+HIGH_CONF,STOCK,VAKBN,0.6188,0.0176,Vakıfbank bireysel bankacilik urunlerindeki capraz satisla izlendi
+HIGH_CONF,STOCK,VAKBN,0.9441,0.1337,VAKBN kredi buyumesindeki ivmeyi korumayi planliyor
+HIGH_CONF,STOCK,VAKBN,0.8620,0.0136,Vakıfbank tahsilat performansindaki toparlanmayla guc kazandi
+HIGH_CONF,STOCK,YKBNK,0.9818,0.0063,YKBNK odeme sistemleri gelirlerindeki buyumeyle dikkat cekti
+HIGH_CONF,STOCK,YKBNK,0.2024,0.0188,Yapi Kredi bireysel musteri tabanini genisletmeyi surduruyor
+HIGH_CONF,STOCK,YKBNK,0.6608,0.0178,YKBNK aktif kalitesindeki dengeli seyirle izleniyor
+HIGH_CONF,STOCK,YKBNK,0.5209,0.0158,Yapi Kredi sigorta ve emeklilik kanallarinda capraz satisi artirdi
+HIGH_CONF,STOCK,KCHOL,0.7872,0.1049,KCHOL enerji yatirimlarindaki disiplinli dagilimla one cikiyor
+HIGH_CONF,STOCK,KCHOL,0.8981,0.9947,Koç Holding otomotiv ve dayanikli tuketim tarafinda dengeli gorunum sergiliyor
+HIGH_CONF,STOCK,KCHOL,0.8665,0.0248,Koc Holding net nakit pozisyonundaki gucle dikkat cekti
+HIGH_CONF,STOCK,KCHOL,0.7630,0.0499,KCHOL istirak performansiyla holdingler arasinda pozitif ayrisiyor
+HIGH_CONF,STOCK,SAHOL,0.6507,0.2841,SAHOL enerji portfoyundeki dagilimla istikrar sagliyor
+HIGH_CONF,STOCK,SAHOL,0.9766,0.8665,Sabanci Holding sigorta ve sanayi tarafindaki cesitlilikle one cikti
+HIGH_CONF,STOCK,SAHOL,0.8486,0.1066,SAHOL yatirim harcamalarini nakit yaratma kapasitesine gore yonetiyor
+HIGH_CONF,STOCK,SAHOL,0.9227,0.1423,Sabanci Holding yeni donemde operasyonel verimlilige odaklaniyor
+HIGH_CONF,STOCK,ASELS,0.6472,0.1424,ASELS radar sistemleri teslimatlarindaki takvimle izleniyor
+HIGH_CONF,STOCK,ASELS,0.6067,0.2973,ASELSAN savunma elektroniigi projelerinde yeni surec baslatti
+HIGH_CONF,STOCK,ASELS,0.8043,0.0300,Aselsan ihracat odakli siparis akisini korumaya devam ediyor
+HIGH_CONF,STOCK,ASELS,0.8075,0.0448,ASELS bakiye siparis buyukluguyle sektorde one cikiyor
+HIGH_CONF,STOCK,PGSUS,0.9021,0.5774,PGSUS dis hat talebindeki canlanmayla gelir beklentilerini destekliyor
+HIGH_CONF,STOCK,PGSUS,0.8300,0.1577,Pegasus birim gelirlerdeki toparlanmayla yaz sezonuna guclu giriyor
+HIGH_CONF,STOCK,PGSUS,0.9319,0.7322,PGSUS filo kullanim verimliligini yeni ceyrekte yukseltti
+HIGH_CONF,STOCK,PGSUS,0.7917,0.3985,Pegasus yan gelir artisi sayesinde marjlarini destekliyor
+HIGH_CONF,STOCK,TCELL,0.8093,0.1189,TCELL faturalı abone bazindaki buyumeyle dikkat cekiyor
+HIGH_CONF,STOCK,TCELL,0.3964,0.4361,Turkcell veri tuketim trendlerindeki gucle gelirlerini destekliyor
+HIGH_CONF,STOCK,TCELL,0.8966,0.0513,TCELL dijital servis gelirlerini toplam ciro icinde artiriyor
+HIGH_CONF,STOCK,TCELL,0.9826,0.6102,Turkcell superonline tarafinda yeni abone kazanimi sagladi
+HIGH_CONF,STOCK,TTKOM,0.9741,0.0881,TTKOM sabit internet tarafindaki ivmeyi koruyor
+HIGH_CONF,STOCK,TTKOM,0.7608,0.3342,Türk Telekom fiber yatirimlarinin geri donusunu takip ediyor
+HIGH_CONF,STOCK,TTKOM,0.8439,0.0454,TTKOM mobil ve sabit taraftaki capraz satisi artirdi
+HIGH_CONF,STOCK,TTKOM,0.5267,0.0982,Turk Telekom veri merkezi gelirlerinde yeni esige yaklasti
+HIGH_CONF,STOCK,TUPRS,0.9933,0.5571,TUPRS urun marjlarindaki normallesmeye ragmen guclu operasyonel gorunumunu koruyor
+HIGH_CONF,STOCK,TUPRS,0.2996,0.0293,Tüpraş planli bakim sonrasinda kapasite kullanimini artirmayi hedefliyor
+HIGH_CONF,STOCK,TUPRS,0.8202,0.7937,TUPRS ihracat ve ic talep dengesini lehine cevirdi
+HIGH_CONF,STOCK,TUPRS,0.2595,0.2283,Tüpraş rafineri marjlarindaki oynakligi stok yonetimiyle dengeliyor
+HIGH_CONF,STOCK,SISE,0.9626,0.3648,SISE duzcam talebindeki toparlanmayla sanayi hisseleri arasinda ayristi
+HIGH_CONF,STOCK,SISE,0.4897,0.0612,Şişecam enerji maliyetlerindeki gerilemeden olumlu etkileniyor
+HIGH_CONF,STOCK,SISE,0.8782,0.1412,SISE kimyasallar tarafindaki kapasite kullanimini artiriyor
+HIGH_CONF,STOCK,SISE,0.9585,0.3848,Sisecam ihracat pazarlarindaki talep canlanmasini yakindan izliyor
+HIGH_CONF,STOCK,EREGL,0.8211,0.1701,EREGL yassi celik fiyatlamasindaki dengeyle dikkat cekti
+HIGH_CONF,STOCK,EREGL,0.9686,0.6830,Erdemir hammadde maliyetlerindeki gevsemeyi bilancosuna yansitiyor
+HIGH_CONF,STOCK,EREGL,0.8906,0.0208,EREGL ihracat siparislerindeki toparlanmayla one cikti
+HIGH_CONF,STOCK,EREGL,0.4902,0.1153,Eregli Demir Celik ic piyasadaki talep canlanmasini olumlu karsiladi
+HIGH_CONF,STOCK,BIMAS,0.7208,0.5256,BIMAS sepet buyuklugundeki artisla operasyonel gucunu koruyor
+HIGH_CONF,STOCK,BIMAS,0.9182,0.5150,BİM yeni magaza acilislarini planlandigi sekilde surduruyor
+HIGH_CONF,STOCK,BIMAS,0.5384,0.2367,BIMAS indirim market modelindeki verimlilikle dikkat cekiyor
+HIGH_CONF,STOCK,BIMAS,0.4561,0.5648,BIM tedarik zinciri optimizasyonuyla marj baskisini sinirliyor
+HIGH_CONF,STOCK,MGROS,0.9214,0.3236,MGROS online kanal satislarindaki buyumeyle izleniyor
+HIGH_CONF,STOCK,MGROS,0.7135,0.2232,Migros taze gida kategorisindeki talep gucuyle one cikti
+HIGH_CONF,STOCK,MGROS,0.4938,0.1433,MGROS sadakat programi etkisiyle musteri trafigini artiriyor
+HIGH_CONF,STOCK,MGROS,0.9210,0.1099,Migros depo otomasyonu yatirimlarini surduruyor
+HIGH_CONF,STOCK,EKGYO,0.8852,0.3718,EKGYO yeni etap satislarindan gelen nakit akisiyla destek buldu
+HIGH_CONF,STOCK,EKGYO,0.6724,0.5548,Emlak Konut proje teslim takvimiyle yatirimcilarin radarinda
+HIGH_CONF,STOCK,EKGYO,0.6895,0.0608,EKGYO on satis gelirlerindeki ivmeyle dikkat cekiyor
+HIGH_CONF,STOCK,EKGYO,0.9735,0.4452,Emlak Konut konut kredi faizlerindeki hareketi yakindan izliyor
+HIGH_CONF,STOCK,LOGO,0.5675,0.1124,LOGO abonelik bazli bulut gelirlerini buyutmeye devam ediyor
+HIGH_CONF,STOCK,LOGO,0.8906,0.5103,Logo Yazilim KOBI urun tarafinda yeni musteri kazanimina odaklandi
+HIGH_CONF,STOCK,LOGO,0.8779,0.1000,LOGO tekrarlayan gelir payindaki artisla one cikiyor
+HIGH_CONF,STOCK,LOGO,0.6986,0.2788,Logo Yazilim e-donusum urun grubunda buyume bekliyor
+HIGH_CONF,STOCK,NETAS,0.6869,0.2484,NETAS kamu projelerindeki siparis birikimiyle destek buldu
+HIGH_CONF,STOCK,NETAS,0.8487,0.0294,Netaş ag altyapi tarafindaki yeni ihalelerle izlendi
+HIGH_CONF,STOCK,NETAS,0.8784,0.3165,NETAS savunma ve kamu tarafindaki projelerden gelir bekliyor
+HIGH_CONF,STOCK,NETAS,0.4987,0.0241,Netaş sistem entegrasyonu kabiliyetleriyle yeni sozlesmelere odaklandi
+HIGH_CONF,STOCK,ENJSA,0.8017,0.3232,ENJSA dagitim yatirimlarinin getirisiyle nakit akisina destek sagliyor
+HIGH_CONF,STOCK,ENJSA,0.3982,0.0631,Enerjisa duzenleyici mekanizmanin katkisi ile istikrar sagliyor
+HIGH_CONF,STOCK,ENJSA,0.9355,0.3097,ENJSA dagitim ve perakende dengesini koruyor
+HIGH_CONF,STOCK,ENJSA,0.8376,0.1249,Enerjisa tahsilat tarafindaki guclu gorunumle izleniyor
+HIGH_CONF,STOCK,ARCLK,0.3014,0.2211,ARCLK Avrupa talebindeki toparlanma beklentileriyle destek buluyor
+LOW_CONF,STOCK,UNKNOWN,0.6425,0.0000,Arcelik premium urun karmasi sayesinde gelir kalitesini artiriyor
+HIGH_CONF,STOCK,ARCLK,0.5971,0.0127,ARCLK ihracat pazarlarindaki ivmelenmeyle dikkat cekti
+LOW_CONF,STOCK,UNKNOWN,0.4987,0.0000,Arcelik yeni donemde maliyet yonetimine odaklaniyor
+HIGH_CONF,STOCK,FROTO,0.9835,0.1299,FROTO elektrikli arac uretim planlariyla sektorunde one cikiyor
+HIGH_CONF,STOCK,FROTO,0.9682,0.0151,Ford Otosan ihracat siparis akisindaki canlanmayla izleniyor

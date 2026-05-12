@@ -1,0 +1,560 @@
+publishedAt,source,headline,predictedAssetType,predictedSymbol,assetScore,symbolScore,lexiconSymbol,labelStatus,goldAssetType,goldSymbol,level1Correct,level2Correct
+2026-04-20,BloombergHT,THY yeni ucak alimi icin Airbus ile gorusuyor,STOCK,THYAO,0.9301,0.4632,THYAO,LABELED,STOCK,THYAO,true,true
+2026-04-20,ForInvest,Garanti BBVA ilk ceyrek karini beklentilerin uzerinde acikladi,STOCK,GARAN,0.9648,0.5322,GARAN,LABELED,STOCK,GARAN,true,true
+2026-04-20,Bigpara,Akbank dijital bankacilik yatirimlarini hizlandirdi,STOCK,AKBNK,0.9375,0.4608,AKBNK,LABELED,STOCK,AKBNK,true,true
+2026-04-20,AA,Aselsan yurt disi musteriyle yeni savunma sozlesmesi imzaladi,STOCK,ASELS,0.7248,0.9713,ASELS,LABELED,STOCK,ASELS,true,true
+2026-04-20,Dunya,BIST 100 bankacilik hisselerinin destegiyle yukseliste,INDEX,XU100,0.5394,0.6678,XU100,LABELED,INDEX,XU100,true,true
+2026-04-20,CNBC-e,Bitcoin ETF girisleri sonrasi 70 bin dolar sinirina yaklasti,CRYPTO,BTC,0.9636,0.9833,BTC,LABELED,CRYPTO,BTC,true,true
+2026-04-20,ParaAnaliz,Dolar/TL kurunda sinirli yukselis suruyor,FOREX,USDTRY,0.4681,0.9841,USDTRY,LABELED,FOREX,USDTRY,true,true
+2026-04-20,AA,Ons altin Fed belirsizligiyle geriledi,COMMODITY,XAUUSD,0.9434,0.0824,XAUUSD,LABELED,COMMODITY,XAUUSD,true,true
+2026-04-20,Ekonomim,TUPRAS rafineri marjlarindaki guclenmeyle one cikti,STOCK,TUPRS,0.7831,0.9585,TUPRS,LABELED,STOCK,TUPRS,true,true
+2026-04-20,Investing,Microsoft yapay zeka yatirimlariyla Nasdaq tarafinda dikkat cekti,STOCK,MSFT,0.8994,0.5522,MSFT,LABELED,STOCK,MSFT,true,true
+2026-04-20,Reuters,Apple tedarik zinciri beklentileriyle primli acildi,STOCK,AAPL,0.9466,0.7072,AAPL,LABELED,STOCK,AAPL,true,true
+2026-04-20,BorsaGundem,Pegasus yaz sezonu oncesi yeni hatlarini duyurdu,STOCK,PGSUS,0.9650,0.5345,PGSUS,LABELED,STOCK,PGSUS,true,true
+2026-04-20,AA,Turkcell veri merkezi kapasitesini buyutuyor,STOCK,TCELL,0.7347,0.4835,TCELL,LABELED,STOCK,TCELL,true,true
+2026-04-20,Dunya,Eregli Demir Celik ihracat pazarindaki toparlanmadan olumlu etkileniyor,STOCK,EREGL,0.9722,0.9739,EREGL,LABELED,STOCK,EREGL,true,true
+2026-04-20,Bigpara,Sisecam soda kulunde yeni kapasite artisini degerlendiriyor,STOCK,SISE,0.9735,0.7105,SISE,LABELED,STOCK,SISE,true,true
+2026-04-20,Ekonomim,Brent petrol fiyatlari arz endiseleriyle yukseliyor,COMMODITY,BRENT,0.5570,0.9760,BRENT,LABELED,COMMODITY,BRENT,true,true
+2026-04-20,ParaAnaliz,EUR/USD paritesi ECB mesajlari sonrasi geriledi,FOREX,EURUSD,0.9419,0.2693,EURUSD,LABELED,FOREX,EURUSD,true,true
+2026-04-20,Investing,ABD 10 yillik tahvil faizi yeniden yuzde 4 seviyesinin uzerine cikti,BOND,US10Y,0.9816,0.4171,US10Y,LABELED,BOND,US10Y,true,true
+2026-04-20,CNBC-e,VIOP 30 kontratlarinda acilis sonrasi hacim artti,VIOP,F_XU030,0.9430,0.5691,F_XU030,LABELED,VIOP,F_XU030,true,true
+2026-04-20,Reuters,Nvidia yeni cip ailesiyle veri merkezi gelirlerini artirmayi hedefliyor,STOCK,NVDA,0.9651,0.0083,NVDA,LABELED,STOCK,NVDA,true,true
+2026-04-20,BloombergHT,Migros online siparis buyumesiyle dikkat cekti,STOCK,MGROS,0.9539,0.9566,MGROS,LABELED,STOCK,MGROS,true,true
+2026-04-20,Dunya,BIM yeni magazalariyla organik buyume planini surduruyor,STOCK,BIMAS,0.6121,0.9635,BIMAS,LABELED,STOCK,BIMAS,true,true
+2026-04-20,AA,Emlak Konut yeni proje gelirlerini yatirimcilara sundu,STOCK,EKGYO,0.9716,0.9744,EKGYO,LABELED,STOCK,EKGYO,true,true
+2026-04-20,ForInvest,Koç Holding enerji ve otomotiv portfoyuyle izlendi,STOCK,KCHOL,0.9616,0.9715,KCHOL,LABELED,STOCK,KCHOL,true,true
+2026-04-20,Ekonomim,Sabanci Holding finansal sonuclarini aciklamaya hazirlaniyor,STOCK,SAHOL,0.9592,0.9611,SAHOL,LABELED,STOCK,SAHOL,true,true
+2026-04-20,Bigpara,TCMB faiz kararinin ardindan piyasalarda oynaklik artti,OTHER,UNKNOWN,0.9672,0.0000,,LABELED,OTHER,UNKNOWN,true,true
+2026-04-20,AA,Enflasyon verileri sonrasinda borsada satis baskisi goruldu,OTHER,UNKNOWN,0.2434,0.0000,,LABELED,OTHER,UNKNOWN,true,true
+2026-04-20,Reuters,Petrol fiyatlarindaki gerileme hava yolu sirketlerine destek verdi,STOCK,UNKNOWN,0.3447,0.0000,,LABELED,OTHER,UNKNOWN,false,true
+2026-04-20,Dunya,Google bulut gelirlerindeki ivmeyle gunu arti kapatti,STOCK,GOOG,0.9657,0.5509,GOOG,LABELED,STOCK,GOOG,true,true
+2026-04-20,Investing,Tesla yeni model teslimatlarina iliskin beklentileri karsilayamadi,STOCK,TSLA,0.9653,0.5517,TSLA,LABELED,STOCK,TSLA,true,true
+2026-04-21,BloombergHT,THY yolcu doluluk oraninda mart ayinda guclu performans sergiledi,STOCK,THYAO,0.9469,0.5687,THYAO,LABELED,STOCK,THYAO,true,true
+2026-04-21,ForInvest,GARAN net faiz marjindaki toparlanmayla one cikti,STOCK,GARAN,0.7876,0.9621,GARAN,LABELED,STOCK,GARAN,true,true
+2026-04-21,Ekonomim,Akbank sendikasyon kredisine yuksek talep geldigini duyurdu,STOCK,AKBNK,0.9612,0.9801,AKBNK,LABELED,STOCK,AKBNK,true,true
+2026-04-21,AA,Aselsan yeni radar sistemi teslimati icin takvimi paylasti,STOCK,ASELS,0.9771,0.5103,ASELS,LABELED,STOCK,ASELS,true,true
+2026-04-21,Bigpara,Eregli celik fiyatlarindaki toparlanmayi bilancosuna yansitmayi hedefliyor,STOCK,EREGL,0.9628,0.4638,EREGL,LABELED,STOCK,EREGL,true,true
+2026-04-21,Dunya,Sisecam duzcam talebindeki canlanmayi izliyor,STOCK,SISE,0.9347,0.8676,SISE,LABELED,STOCK,SISE,true,true
+2026-04-21,CNBC-e,Turk Telekom fiber altyapi yatirimlarini artiriyor,STOCK,TTKOM,0.9296,0.0711,TTKOM,LABELED,STOCK,TTKOM,true,true
+2026-04-21,ParaAnaliz,Turkcell kurumsal servis gelirlerindeki buyumeyle dikkat cekti,STOCK,TCELL,0.9651,0.9626,TCELL,LABELED,STOCK,TCELL,true,true
+2026-04-21,Investing,Pegasus dis hat kapasitesini yaz aylarinda yukseltecek,STOCK,PGSUS,0.9661,0.9702,PGSUS,LABELED,STOCK,PGSUS,true,true
+2026-04-21,Reuters,BIM operasyonel marjlarini korumaya yonelik adimlar atiyor,STOCK,BIMAS,0.5074,0.5543,BIMAS,LABELED,STOCK,BIMAS,true,true
+2026-04-21,AA,Migros yeni dagitim merkeziyle lojistik verimliligini artiracak,STOCK,MGROS,0.9716,0.4463,MGROS,LABELED,STOCK,MGROS,true,true
+2026-04-21,Ekonomim,TUPRAS urun marjlarindaki dalgalanmaya ragmen izleniyor,STOCK,TUPRS,0.6783,0.9586,TUPRS,LABELED,STOCK,TUPRS,true,true
+2026-04-21,ForInvest,Koç Holding ford ve enerji tarafindaki gelismelerle primlendi,STOCK,KCHOL,0.9766,0.9802,KCHOL,LABELED,STOCK,KCHOL,true,true
+2026-04-21,Bigpara,Sabanci Holding bankacilik disi varliklarin katkisini artirmayi planliyor,STOCK,SAHOL,0.8837,0.9736,SAHOL,LABELED,STOCK,SAHOL,true,true
+2026-04-21,Dunya,Emlak Konut on satis gelirleriyle beklentileri asti,STOCK,EKGYO,0.9579,0.9793,EKGYO,LABELED,STOCK,EKGYO,true,true
+2026-04-21,Investing,Logo Yazilim bulut tabanli urunlerinin payini buyutuyor,STOCK,LOGO,0.5576,0.5639,LOGO,LABELED,STOCK,LOGO,true,true
+2026-04-21,AA,Netaş kamu projeleriyle yeni donemde gelir artisi hedefliyor,STOCK,NETAS,0.9786,0.9684,NETAS,LABELED,STOCK,NETAS,true,true
+2026-04-21,Reuters,Bitcoin opsiyon piyasasinda risk istahi yukseliyor,CRYPTO,BTC,0.9579,0.9742,BTC,LABELED,CRYPTO,BTC,true,true
+2026-04-21,CNBC-e,Ethereum ag guncellemesi oncesi alicili seyrediyor,CRYPTO,ETH,0.1907,0.0878,ETH,LABELED,CRYPTO,ETH,true,true
+2026-04-21,Ekonomim,Solana ekosisteminde yeni proje lansmanlari fiyatlamayi destekledi,CRYPTO,SOL,0.5922,0.1438,SOL,LABELED,CRYPTO,SOL,true,true
+2026-04-21,Dunya,XRP davasina iliskin gelismeler sonrasi yukseliste,CRYPTO,XRP,0.9511,0.5324,XRP,LABELED,CRYPTO,XRP,true,true
+2026-04-21,ParaAnaliz,Dolar kuru TCMB mesajlari sonrasinda sakin seyretti,FOREX,USDTRY,0.9681,0.5238,USDTRY,LABELED,FOREX,USDTRY,true,true
+2026-04-21,Investing,Euro/TL ic piyasada talep nedeniyle yukari yonlu hareket etti,FOREX,EURTRY,0.9571,0.1580,EURTRY,LABELED,FOREX,EURTRY,true,true
+2026-04-21,AA,Brent petrol Orta Dogu kaynakli risklerle yeniden 85 dolar sinirina dayandi,COMMODITY,BRENT,0.9736,0.6929,BRENT,LABELED,COMMODITY,BRENT,true,true
+2026-04-21,Bigpara,Ons gumus sanayi talebindeki canlanma ile deger kazandi,COMMODITY,XAGUSD,0.9581,0.0819,XAGUSD,LABELED,COMMODITY,XAGUSD,true,true
+2026-04-21,Reuters,ABD 2 yillik tahvil faizi faiz indirimi beklentilerinin azalmasiyla yukseldi,BOND,US02Y,0.9703,0.2861,US02Y,LABELED,BOND,US02Y,true,true
+2026-04-21,CNBC-e,BIST 30 vadeli kontratta acik pozisyon sayisi artti,VIOP,F_XU030,0.9872,0.0909,F_XU030,LABELED,VIOP,F_XU030,true,true
+2026-04-21,Ekonomim,Nasdaq 100 yapay zeka hisseleri onculugunde yeni zirveye yaklasti,INDEX,NDX,0.9141,0.5819,NDX,LABELED,INDEX,NDX,true,true
+2026-04-21,ForInvest,S&P 500 endeksi banka bilancolari sonrasi karisik seyretti,INDEX,SPX,0.9627,0.9737,SPX,LABELED,INDEX,SPX,true,true
+2026-04-21,AA,Enflasyon beklentisindeki bozulma tahvil piyasasini baskiladi,OTHER,UNKNOWN,0.9597,0.0000,,LABELED,OTHER,UNKNOWN,true,true
+2026-04-22,BloombergHT,THY kargo gelirlerindeki toparlanma ile ikinci ceyrege guclu giris yapti,STOCK,THYAO,0.9553,0.9813,THYAO,LABELED,STOCK,THYAO,true,true
+2026-04-22,ForInvest,Turk Hava Yollari uzun menzilli hat kapasitesini artirmayi planliyor,STOCK,THYAO,0.9823,0.6958,THYAO,LABELED,STOCK,THYAO,true,true
+2026-04-22,Ekonomim,THY yeni ucak finansmani icin uluslararasi bankalarla masada,STOCK,THYAO,0.9353,0.4436,THYAO,LABELED,STOCK,THYAO,true,true
+2026-04-22,AA,GARAN komisyon gelirlerindeki artisla piyasanin takibinde kaldi,STOCK,GARAN,0.9644,0.9707,GARAN,LABELED,STOCK,GARAN,true,true
+2026-04-22,Bigpara,Garanti BBVA dijital musteri sayisinda yeni esige yaklasti,STOCK,GARAN,0.9760,0.9760,GARAN,LABELED,STOCK,GARAN,true,true
+2026-04-22,Dunya,Garanti Bankasi sendikasyon yenilemesinde yuksek katilim sagladi,STOCK,GARAN,0.9570,0.0969,GARAN,LABELED,STOCK,GARAN,true,true
+2026-04-22,Reuters,AKBNK tuketici kredilerindeki ivmeyi korumayi hedefliyor,STOCK,AKBNK,0.8006,0.0248,AKBNK,LABELED,STOCK,AKBNK,true,true
+2026-04-22,ParaAnaliz,Akbank net ucret komisyon gelirlerinde guclu buyume yakaladi,STOCK,AKBNK,0.9744,0.5851,AKBNK,LABELED,STOCK,AKBNK,true,true
+2026-04-22,CNBC-e,Akbank mobil uygulama kullaniminda yeni rekor acikladi,STOCK,AKBNK,0.9710,0.5561,AKBNK,LABELED,STOCK,AKBNK,true,true
+2026-04-22,AA,ISCTR kurumsal kredi portfoyundeki artisla dikkat cekti,STOCK,ISCTR,0.9669,0.5053,ISCTR,LABELED,STOCK,ISCTR,true,true
+2026-04-22,Ekonomim,Is Bankasi istirak gelirlerinin destegiyle one cikiyor,STOCK,ISCTR,0.9408,0.9627,ISCTR,LABELED,STOCK,ISCTR,true,true
+2026-04-22,Bigpara,İşbank yeşil finansman projelerine ayirdigi kaynagi buyuttu,STOCK,ISCTR,0.2226,0.9700,ISCTR,LABELED,STOCK,ISCTR,true,true
+2026-04-22,BloombergHT,VAKBN kamu destekli kredi programlariyla izleniyor,STOCK,VAKBN,0.9475,0.5615,VAKBN,LABELED,STOCK,VAKBN,true,true
+2026-04-22,ForInvest,Vakıfbank sermaye yeterlilik rasyosunu guclendirecek adimlar atiyor,STOCK,VAKBN,0.9702,0.4469,VAKBN,LABELED,STOCK,VAKBN,true,true
+2026-04-22,Dunya,YKBNK odeme sistemleri tarafindaki buyumeyle pozitif ayrisiyor,STOCK,YKBNK,0.9614,0.4443,YKBNK,LABELED,STOCK,YKBNK,true,true
+2026-04-22,ParaAnaliz,Yapi Kredi varlik yonetimi gelirlerini artirmayi hedefliyor,STOCK,YKBNK,0.7877,0.5544,YKBNK,LABELED,STOCK,YKBNK,true,true
+2026-04-22,Reuters,KCHOL enerji ve otomotiv segmentlerindeki dengeli performansla izlendi,STOCK,KCHOL,0.9731,0.8560,KCHOL,LABELED,STOCK,KCHOL,true,true
+2026-04-22,AA,Koç Holding rafineri ve dayanikli tuketim tarafinda sinerji ariyor,STOCK,KCHOL,0.9805,0.8488,KCHOL,LABELED,STOCK,KCHOL,true,true
+2026-04-22,Ekonomim,Koc Holding istiraklerinden gelen temettu akisiyle destek buldu,STOCK,KCHOL,0.9662,0.5522,KCHOL,LABELED,STOCK,KCHOL,true,true
+2026-04-22,Bigpara,SAHOL enerji dagitim ve sigorta tarafiyla one cikti,STOCK,SAHOL,0.8620,0.6055,SAHOL,LABELED,STOCK,SAHOL,true,true
+2026-04-22,ForInvest,Sabanci Holding yeni yatirim doneminde nakit yaratma kapasitesini artirdi,STOCK,SAHOL,0.9750,0.6839,SAHOL,LABELED,STOCK,SAHOL,true,true
+2026-04-22,Dunya,Sabanci Holding sanayi portfoyundeki verimlilik projelerini hizlandirdi,STOCK,SAHOL,0.9533,0.5600,SAHOL,LABELED,STOCK,SAHOL,true,true
+2026-04-22,CNBC-e,ASELS yurtiçi savunma siparislerinde yeni teslim takvimi acikladi,STOCK,ASELS,0.9492,0.9718,ASELS,LABELED,STOCK,ASELS,true,true
+2026-04-22,AA,Aselsan elektro optik sistemlerde yeni ihracat firsati yakaladi,STOCK,ASELS,0.9757,0.9714,ASELS,LABELED,STOCK,ASELS,true,true
+2026-04-22,Reuters,ASELSAN bakiye siparis buyukluguyle analistlerin radarinda,STOCK,ASELS,0.6978,0.7037,ASELS,LABELED,STOCK,ASELS,true,true
+2026-04-22,BloombergHT,PGSUS yaz sezonunda doluluk oranlarini yukari cekmeyi hedefliyor,STOCK,PGSUS,0.9692,0.5578,PGSUS,LABELED,STOCK,PGSUS,true,true
+2026-04-22,Ekonomim,Pegasus yan gelir performansindaki guclenmeyle dikkat cekti,STOCK,PGSUS,0.9680,0.5389,PGSUS,LABELED,STOCK,PGSUS,true,true
+2026-04-22,Bigpara,PGSUS filo kullanim verimliligini yeni sezonda artiriyor,STOCK,PGSUS,0.9142,0.9648,PGSUS,LABELED,STOCK,PGSUS,true,true
+2026-04-22,ForInvest,TCELL kurumsal veri servislerine gelen taleple guc kazandi,STOCK,TCELL,0.9598,0.9736,TCELL,LABELED,STOCK,TCELL,true,true
+2026-04-22,Dunya,Turkcell superonline aboneliklerinde ivmeyi koruyor,STOCK,TCELL,0.9383,0.9503,TCELL,LABELED,STOCK,TCELL,true,true
+2026-04-22,AA,TCELL yurt ici veri tuketimindeki artisi gelirlerine yansitiyor,STOCK,TCELL,0.8697,0.5570,TCELL,LABELED,STOCK,TCELL,true,true
+2026-04-22,Reuters,TTKOM fiber uzunlugundaki buyumeyle operasyonel kaldirac yakaladi,STOCK,TTKOM,0.9652,0.5541,TTKOM,LABELED,STOCK,TTKOM,true,true
+2026-04-22,CNBC-e,Türk Telekom sabit internet abone kazanimi ile izleniyor,STOCK,TTKOM,0.9780,0.9747,TTKOM,LABELED,STOCK,TTKOM,true,true
+2026-04-22,Ekonomim,TTKOM veri merkezi yatirim planini yil sonuna kadar netlestirecek,STOCK,TTKOM,0.7262,0.9784,TTKOM,LABELED,STOCK,TTKOM,true,true
+2026-04-22,Bigpara,TUPRS urun spreadlerindeki toparlanmadan yararlanmaya devam ediyor,STOCK,TUPRS,0.9622,0.9769,TUPRS,LABELED,STOCK,TUPRS,true,true
+2026-04-22,ForInvest,Tüpraş planli bakim takvimine ragmen marj performansini korudu,STOCK,TUPRS,0.6444,0.9757,TUPRS,LABELED,STOCK,TUPRS,true,true
+2026-04-22,Dunya,TUPRS ic talep ve ihracat dengesiyle sektorunde pozitif ayrisiyor,STOCK,TUPRS,0.9746,0.4391,TUPRS,LABELED,STOCK,TUPRS,true,true
+2026-04-22,AA,SISE duzcam ve kimyasallar segmentindeki talep canlanmasini izliyor,STOCK,SISE,0.9794,0.9752,SISE,LABELED,STOCK,SISE,true,true
+2026-04-22,Reuters,Şişecam enerji maliyetlerindeki normallesmeyle marjlarini destekliyor,STOCK,SISE,0.7971,0.9617,SISE,LABELED,STOCK,SISE,true,true
+2026-04-22,BloombergHT,SISE Avrupa pazarindaki siparis akisini guclendirdi,STOCK,SISE,0.9587,0.9611,SISE,LABELED,STOCK,SISE,true,true
+2026-04-22,Ekonomim,EREGL slab ve yassi celik tarafindaki fiyatlamayi yakindan takip ediyor,STOCK,EREGL,0.9866,0.9774,EREGL,LABELED,STOCK,EREGL,true,true
+2026-04-22,Bigpara,Erdemir hammadde maliyetlerindeki gevsemeyle guc kazandi,STOCK,EREGL,0.9431,0.5812,EREGL,LABELED,STOCK,EREGL,true,true
+2026-04-22,ForInvest,EREGL ihracat siparislerinin toparlanmasi ile one cikiyor,STOCK,EREGL,0.9656,0.5689,EREGL,LABELED,STOCK,EREGL,true,true
+2026-04-22,Dunya,BIMAS sepet buyuklugundeki artisla satis momentumunu koruyor,STOCK,BIMAS,0.9698,0.4395,BIMAS,LABELED,STOCK,BIMAS,true,true
+2026-04-22,AA,BİM indirim market segmentinde yeni magaza acilislarini surduruyor,STOCK,BIMAS,0.9753,0.9821,BIMAS,LABELED,STOCK,BIMAS,true,true
+2026-04-22,Reuters,BIMAS operasyonel disiplinini koruyarak marj baskisini sinirliyor,STOCK,BIMAS,0.3465,0.7800,BIMAS,LABELED,STOCK,BIMAS,true,true
+2026-04-22,CNBC-e,MGROS taze gida ve online kanalda buyume yakaladi,STOCK,MGROS,0.9757,0.9859,MGROS,LABELED,STOCK,MGROS,true,true
+2026-04-22,Ekonomim,Migros musteri sadakat programi sayesinde trafik artisi sagladi,STOCK,MGROS,0.9749,0.5555,MGROS,LABELED,STOCK,MGROS,true,true
+2026-04-22,Bigpara,MGROS yeni depo otomasyonu yatirimiyla verimlilik hedefliyor,STOCK,MGROS,0.9815,0.8289,MGROS,LABELED,STOCK,MGROS,true,true
+2026-04-22,ForInvest,EKGYO on satis performansiyla nakit akisinda guclenme bekliyor,STOCK,EKGYO,0.9687,0.3522,EKGYO,LABELED,STOCK,EKGYO,true,true
+2026-04-22,Dunya,Emlak Konut konut kredisi faizlerindeki degisimi yakindan izliyor,STOCK,EKGYO,0.9063,0.9817,EKGYO,LABELED,STOCK,EKGYO,true,true
+2026-04-22,AA,EKGYO yeni etap satislarindan gelecek gelirleri projeksiyonuna ekledi,STOCK,EKGYO,0.7235,0.5763,EKGYO,LABELED,STOCK,EKGYO,true,true
+2026-04-22,Reuters,LOGO bulut yazilim abonelik modelinden daha yuksek gelir uretiyor,STOCK,LOGO,0.9766,0.6308,LOGO,LABELED,STOCK,LOGO,true,true
+2026-04-22,CNBC-e,Logo Yazilim KOBI tarafinda yeni urun lansmanina hazirlaniyor,STOCK,LOGO,0.9534,0.8061,LOGO,LABELED,STOCK,LOGO,true,true
+2026-04-22,Ekonomim,NETAS kamu ve savunma projeleriyle siparis birikimini artiriyor,STOCK,NETAS,0.9723,0.8752,NETAS,LABELED,STOCK,NETAS,true,true
+2026-04-22,Bigpara,Netaş yurt ici ag altyapi projelerinde yeni ihaleleri takip ediyor,STOCK,NETAS,0.9827,0.9815,NETAS,LABELED,STOCK,NETAS,true,true
+2026-04-22,ForInvest,ENJSA duzenlenmis getiri mekanizmasiyla nakit akisini destekliyor,STOCK,ENJSA,0.8182,0.5731,ENJSA,LABELED,STOCK,ENJSA,true,true
+2026-04-22,Dunya,Enerjisa dagitim tarafindaki yatirim harcamalarini optimize ediyor,STOCK,ENJSA,0.9659,0.9672,ENJSA,LABELED,STOCK,ENJSA,true,true
+2026-04-22,AA,ARCLK Avrupa talebindeki toparlanma beklentisiyle izleniyor,STOCK,ARCLK,0.9606,0.8370,ARCLK,LABELED,STOCK,ARCLK,true,true
+2026-04-22,Reuters,Arcelik premium urun karmasiyla gelir kalitesini artiriyor,STOCK,ARCLK,0.9608,0.5500,ARCLK,LABELED,STOCK,ARCLK,true,true
+2026-04-22,BloombergHT,FROTO elektrikli ticari arac uretim kapasitesini yukseltecek,STOCK,FROTO,0.9631,0.7187,FROTO,LABELED,STOCK,FROTO,true,true
+2026-04-22,Ekonomim,Ford Otosan ihracat siparis akisindaki iyilesmeyle destek buldu,STOCK,FROTO,0.9713,0.6167,FROTO,LABELED,STOCK,FROTO,true,true
+2026-04-22,Bigpara,TOGG yeni teslimat takvimi ve yazilim guncellemesiyle gundemde,STOCK,TOGG,0.9738,0.5520,TOGG,LABELED,STOCK,TOGG,true,true
+2026-04-22,ForInvest,Togg yerli tedarik zincirini genisletmeye devam ediyor,STOCK,TOGG,0.9689,0.1694,TOGG,LABELED,STOCK,TOGG,true,true
+2026-04-22,Dunya,XU100 banka ve holding hisseleriyle gunu arti kapatti,INDEX,XU100,0.6730,0.9751,XU100,LABELED,INDEX,XU100,true,true
+2026-04-22,AA,BIST 100 endeksi sanayi hisselerindeki alicili seyirle yukseliste,INDEX,XU100,0.9733,0.6947,XU100,LABELED,INDEX,XU100,true,true
+2026-04-22,Reuters,XU030 vadeli kontratlarinda gun ortasinda hacim canlandi,INDEX,XU030,0.9435,0.1660,XU030,LABELED,INDEX,XU030,true,true
+2026-04-22,CNBC-e,BIST Banka endeksi kredi buyumesi beklentileriyle one cikti,INDEX,XBANK,0.9451,0.4844,XBANK,LABELED,INDEX,XBANK,true,true
+2026-04-22,Ekonomim,Dolar/TL kurunda kapanis oncesi yatay seyir izlendi,FOREX,USDTRY,0.9644,0.8393,USDTRY,LABELED,FOREX,USDTRY,true,true
+2026-04-22,Bigpara,USDTRY kurunda Merkez Bankasi mesajlari sonrasi oynaklik azaldi,FOREX,USDTRY,0.5122,0.3636,USDTRY,LABELED,FOREX,USDTRY,true,true
+2026-04-22,ForInvest,Euro/TL ithalat talebinin etkisiyle yukselisini surdurdu,FOREX,EURTRY,0.9586,0.1582,EURTRY,LABELED,FOREX,EURTRY,true,true
+2026-04-22,Dunya,EURUSD paritesi ABD verileri sonrasinda toparlanma aradi,FOREX,EURUSD,0.9903,0.9865,EURUSD,LABELED,FOREX,EURUSD,true,true
+2026-04-22,AA,Bitcoin kurumsal alim beklentileriyle yeniden guc kazandi,CRYPTO,BTC,0.9347,0.5337,BTC,LABELED,CRYPTO,BTC,true,true
+2026-04-22,Reuters,Ethereum staking ilgisinin artmasiyla pozitif ayristi,CRYPTO,ETH,0.9550,0.0890,ETH,LABELED,CRYPTO,ETH,true,true
+2026-04-22,CNBC-e,Solana ag uzerindeki yeni uygulamalar fiyata destek verdi,CRYPTO,SOL,0.5573,0.4886,SOL,LABELED,CRYPTO,SOL,true,true
+2026-04-22,Ekonomim,XRP odakli dava surecinde iyimserlik fiyatlamasi devam etti,CRYPTO,XRP,0.9672,0.6100,XRP,LABELED,CRYPTO,XRP,true,true
+2026-04-22,Bigpara,Brent petrol arz yonlu endiselerle yuksek seviyelerde kaldi,COMMODITY,BRENT,0.9632,0.8017,BRENT,LABELED,COMMODITY,BRENT,true,true
+2026-04-22,ForInvest,Ons altin jeopolitik risklerle guvenli liman talebi gordu,COMMODITY,XAUUSD,0.9756,0.0815,XAUUSD,LABELED,COMMODITY,XAUUSD,true,true
+2026-04-22,Dunya,Ons gumus sanayi kullanim beklentileriyle destek buldu,COMMODITY,XAGUSD,0.9346,0.0819,XAGUSD,LABELED,COMMODITY,XAGUSD,true,true
+2026-04-22,AA,ABD 10 yillik tahvil faizi veri akisi oncesi dengelendi,BOND,US10Y,0.7354,0.4177,US10Y,LABELED,BOND,US10Y,true,true
+2026-04-23,BloombergHT,THYAO yaz sezonu rezervasyonlarindaki ivmeyle analistlerin radarinda,STOCK,THYAO,0.9671,0.0266,THYAO,LABELED,STOCK,THYAO,true,true
+2026-04-23,ForInvest,Turk Hava Yollari kargo operasyonlarindaki kapasite artisini surduruyor,STOCK,THYAO,0.8968,0.9711,THYAO,LABELED,STOCK,THYAO,true,true
+2026-04-23,Ekonomim,THY uzun menzilli filo planlamasinda yeni adimlar atiyor,STOCK,THYAO,0.9315,0.9682,THYAO,LABELED,STOCK,THYAO,true,true
+2026-04-23,AA,THYAO yolcu gelirlerindeki toparlanmayla pozitif ayrisiyor,STOCK,THYAO,0.9133,0.9597,THYAO,LABELED,STOCK,THYAO,true,true
+2026-04-23,Reuters,GARAN ticari kredilerdeki buyumeyle sektorunden olumlu ayristi,STOCK,GARAN,0.9629,0.5528,GARAN,LABELED,STOCK,GARAN,true,true
+2026-04-23,Bigpara,Garanti BBVA komisyon gelirlerindeki artisla one cikiyor,STOCK,GARAN,0.9683,0.9660,GARAN,LABELED,STOCK,GARAN,true,true
+2026-04-23,Dunya,Garanti Bankasi aktif kalitesindeki dengeli gorunumle izleniyor,STOCK,GARAN,0.9683,0.5412,GARAN,LABELED,STOCK,GARAN,true,true
+2026-04-23,ParaAnaliz,GARAN dijital bankacilik kanalinda musteri kazanimi sagliyor,STOCK,GARAN,0.9255,0.5413,GARAN,LABELED,STOCK,GARAN,true,true
+2026-04-23,Investing,AKBNK kredi karti harcamalarindaki ivmeyle destek buldu,STOCK,AKBNK,0.9584,0.9665,AKBNK,LABELED,STOCK,AKBNK,true,true
+2026-04-23,Reuters,Akbank tahsilat performansindaki iyilesmeyle dikkat cekti,STOCK,AKBNK,0.9549,0.9691,AKBNK,LABELED,STOCK,AKBNK,true,true
+2026-04-23,AA,Akbank kurumsal bankacilik gelirlerinde guclu bir ceyrek hedefliyor,STOCK,AKBNK,0.9739,0.5771,AKBNK,LABELED,STOCK,AKBNK,true,true
+2026-04-23,Ekonomim,AKBNK fonlama maliyetlerindeki gerilemeyi marjlara yansitiyor,STOCK,AKBNK,0.9616,0.9640,AKBNK,LABELED,STOCK,AKBNK,true,true
+2026-04-23,BloombergHT,ISCTR mevduat tabanindaki gucunu koruyarak izleniyor,STOCK,ISCTR,0.6150,0.9631,ISCTR,LABELED,STOCK,ISCTR,true,true
+2026-04-23,ForInvest,Is Bankasi istirak portfoyunden gelen katkilarla one cikti,STOCK,ISCTR,0.7536,0.9728,ISCTR,LABELED,STOCK,ISCTR,true,true
+2026-04-23,Dunya,İşbank kurumsal kredi buyumesiyle bankacilik endeksine destek verdi,STOCK,ISCTR,0.8379,0.9723,ISCTR,LABELED,STOCK,ISCTR,true,true
+2026-04-23,ParaAnaliz,ISCTR sermaye yeterliligindeki guclu gorunumunu koruyor,STOCK,ISCTR,0.9521,0.5472,ISCTR,LABELED,STOCK,ISCTR,true,true
+2026-04-23,Reuters,VAKBN kamu destekli finansman paketleriyle gundemde kaldi,STOCK,VAKBN,0.9641,0.9717,VAKBN,LABELED,STOCK,VAKBN,true,true
+2026-04-23,AA,Vakıfbank bireysel bankacilik urunlerindeki capraz satisla izlendi,STOCK,VAKBN,0.9655,0.4475,VAKBN,LABELED,STOCK,VAKBN,true,true
+2026-04-23,Ekonomim,VAKBN kredi buyumesindeki ivmeyi korumayi planliyor,STOCK,VAKBN,0.9611,0.5495,VAKBN,LABELED,STOCK,VAKBN,true,true
+2026-04-23,Bigpara,Vakıfbank tahsilat performansindaki toparlanmayla guc kazandi,STOCK,VAKBN,0.9125,0.9580,VAKBN,LABELED,STOCK,VAKBN,true,true
+2026-04-23,CNBC-e,YKBNK odeme sistemleri gelirlerindeki buyumeyle dikkat cekti,STOCK,YKBNK,0.9738,0.4317,YKBNK,LABELED,STOCK,YKBNK,true,true
+2026-04-23,ForInvest,Yapi Kredi bireysel musteri tabanini genisletmeyi surduruyor,STOCK,YKBNK,0.8219,0.9686,YKBNK,LABELED,STOCK,YKBNK,true,true
+2026-04-23,Dunya,YKBNK aktif kalitesindeki dengeli seyirle izleniyor,STOCK,YKBNK,0.9514,0.9520,YKBNK,LABELED,STOCK,YKBNK,true,true
+2026-04-23,Reuters,Yapi Kredi sigorta ve emeklilik kanallarinda capraz satisi artirdi,STOCK,YKBNK,0.9748,0.5569,YKBNK,LABELED,STOCK,YKBNK,true,true
+2026-04-23,BloombergHT,KCHOL enerji yatirimlarindaki disiplinli dagilimla one cikiyor,STOCK,KCHOL,0.9666,0.9646,KCHOL,LABELED,STOCK,KCHOL,true,true
+2026-04-23,Ekonomim,Koç Holding otomotiv ve dayanikli tuketim tarafinda dengeli gorunum sergiliyor,STOCK,KCHOL,0.9747,0.9895,KCHOL,LABELED,STOCK,KCHOL,true,true
+2026-04-23,AA,Koc Holding net nakit pozisyonundaki gucle dikkat cekti,STOCK,KCHOL,0.9752,0.0300,KCHOL,LABELED,STOCK,KCHOL,true,true
+2026-04-23,ForInvest,KCHOL istirak performansiyla holdingler arasinda pozitif ayrisiyor,STOCK,KCHOL,0.8409,0.4374,KCHOL,LABELED,STOCK,KCHOL,true,true
+2026-04-23,Reuters,SAHOL enerji portfoyundeki dagilimla istikrar sagliyor,STOCK,SAHOL,0.8665,0.0476,SAHOL,LABELED,STOCK,SAHOL,true,true
+2026-04-23,Bigpara,Sabanci Holding sigorta ve sanayi tarafindaki cesitlilikle one cikti,STOCK,SAHOL,0.9316,0.9740,SAHOL,LABELED,STOCK,SAHOL,true,true
+2026-04-23,Dunya,SAHOL yatirim harcamalarini nakit yaratma kapasitesine gore yonetiyor,STOCK,SAHOL,0.5361,0.9722,SAHOL,LABELED,STOCK,SAHOL,true,true
+2026-04-23,AA,Sabanci Holding yeni donemde operasyonel verimlilige odaklaniyor,STOCK,SAHOL,0.9534,0.9624,SAHOL,LABELED,STOCK,SAHOL,true,true
+2026-04-23,CNBC-e,ASELS radar sistemleri teslimatlarindaki takvimle izleniyor,STOCK,ASELS,0.9582,0.0262,ASELS,LABELED,STOCK,ASELS,true,true
+2026-04-23,Reuters,ASELSAN savunma elektroniigi projelerinde yeni surec baslatti,STOCK,ASELS,0.9650,0.5401,ASELS,LABELED,STOCK,ASELS,true,true
+2026-04-23,AA,Aselsan ihracat odakli siparis akisini korumaya devam ediyor,STOCK,ASELS,0.9022,0.5637,ASELS,LABELED,STOCK,ASELS,true,true
+2026-04-23,Ekonomim,ASELS bakiye siparis buyukluguyle sektorde one cikiyor,STOCK,ASELS,0.7715,0.9645,ASELS,LABELED,STOCK,ASELS,true,true
+2026-04-23,BloombergHT,PGSUS dis hat talebindeki canlanmayla gelir beklentilerini destekliyor,STOCK,PGSUS,0.9335,0.7928,PGSUS,LABELED,STOCK,PGSUS,true,true
+2026-04-23,ForInvest,Pegasus birim gelirlerdeki toparlanmayla yaz sezonuna guclu giriyor,STOCK,PGSUS,0.9750,0.9757,PGSUS,LABELED,STOCK,PGSUS,true,true
+2026-04-23,Dunya,PGSUS filo kullanim verimliligini yeni ceyrekte yukseltti,STOCK,PGSUS,0.9611,0.7349,PGSUS,LABELED,STOCK,PGSUS,true,true
+2026-04-23,AA,Pegasus yan gelir artisi sayesinde marjlarini destekliyor,STOCK,PGSUS,0.9009,0.6227,PGSUS,LABELED,STOCK,PGSUS,true,true
+2026-04-23,Reuters,TCELL faturalı abone bazindaki buyumeyle dikkat cekiyor,STOCK,TCELL,0.9678,0.9670,TCELL,LABELED,STOCK,TCELL,true,true
+2026-04-23,CNBC-e,Turkcell veri tuketim trendlerindeki gucle gelirlerini destekliyor,STOCK,TCELL,0.9644,0.9709,TCELL,LABELED,STOCK,TCELL,true,true
+2026-04-23,Ekonomim,TCELL dijital servis gelirlerini toplam ciro icinde artiriyor,STOCK,TCELL,0.9753,0.5836,TCELL,LABELED,STOCK,TCELL,true,true
+2026-04-23,AA,Turkcell superonline tarafinda yeni abone kazanimi sagladi,STOCK,TCELL,0.9741,0.5862,TCELL,LABELED,STOCK,TCELL,true,true
+2026-04-23,BloombergHT,TTKOM sabit internet tarafindaki ivmeyi koruyor,STOCK,TTKOM,0.9517,0.9526,TTKOM,LABELED,STOCK,TTKOM,true,true
+2026-04-23,ForInvest,Türk Telekom fiber yatirimlarinin geri donusunu takip ediyor,STOCK,TTKOM,0.9628,0.5693,TTKOM,LABELED,STOCK,TTKOM,true,true
+2026-04-23,Dunya,TTKOM mobil ve sabit taraftaki capraz satisi artirdi,STOCK,TTKOM,0.9710,0.9716,TTKOM,LABELED,STOCK,TTKOM,true,true
+2026-04-23,AA,Turk Telekom veri merkezi gelirlerinde yeni esige yaklasti,STOCK,TTKOM,0.9695,0.4926,TTKOM,LABELED,STOCK,TTKOM,true,true
+2026-04-23,Reuters,TUPRS urun marjlarindaki normallesmeye ragmen guclu operasyonel gorunumunu koruyor,STOCK,TUPRS,0.9849,0.8363,TUPRS,LABELED,STOCK,TUPRS,true,true
+2026-04-23,Ekonomim,Tüpraş planli bakim sonrasinda kapasite kullanimini artirmayi hedefliyor,STOCK,TUPRS,0.9714,0.9720,TUPRS,LABELED,STOCK,TUPRS,true,true
+2026-04-23,AA,TUPRS ihracat ve ic talep dengesini lehine cevirdi,STOCK,TUPRS,0.7473,0.2136,TUPRS,LABELED,STOCK,TUPRS,true,true
+2026-04-23,Bigpara,Tüpraş rafineri marjlarindaki oynakligi stok yonetimiyle dengeliyor,STOCK,TUPRS,0.9638,0.5806,TUPRS,LABELED,STOCK,TUPRS,true,true
+2026-04-23,CNBC-e,SISE duzcam talebindeki toparlanmayla sanayi hisseleri arasinda ayristi,STOCK,SISE,0.9503,0.9686,SISE,LABELED,STOCK,SISE,true,true
+2026-04-23,Reuters,Şişecam enerji maliyetlerindeki gerilemeden olumlu etkileniyor,STOCK,SISE,0.9567,0.2120,SISE,LABELED,STOCK,SISE,true,true
+2026-04-23,AA,SISE kimyasallar tarafindaki kapasite kullanimini artiriyor,STOCK,SISE,0.9453,0.5341,SISE,LABELED,STOCK,SISE,true,true
+2026-04-23,Ekonomim,Sisecam ihracat pazarlarindaki talep canlanmasini yakindan izliyor,STOCK,SISE,0.9656,0.7802,SISE,LABELED,STOCK,SISE,true,true
+2026-04-23,BloombergHT,EREGL yassi celik fiyatlamasindaki dengeyle dikkat cekti,STOCK,EREGL,0.9649,0.1171,EREGL,LABELED,STOCK,EREGL,true,true
+2026-04-23,ForInvest,Erdemir hammadde maliyetlerindeki gevsemeyi bilancosuna yansitiyor,STOCK,EREGL,0.9654,0.6480,EREGL,LABELED,STOCK,EREGL,true,true
+2026-04-23,Dunya,EREGL ihracat siparislerindeki toparlanmayla one cikti,STOCK,EREGL,0.9391,0.9495,EREGL,LABELED,STOCK,EREGL,true,true
+2026-04-23,AA,Eregli Demir Celik ic piyasadaki talep canlanmasini olumlu karsiladi,STOCK,EREGL,0.9713,0.9776,EREGL,LABELED,STOCK,EREGL,true,true
+2026-04-23,Reuters,BIMAS sepet buyuklugundeki artisla operasyonel gucunu koruyor,STOCK,BIMAS,0.9670,0.4673,BIMAS,LABELED,STOCK,BIMAS,true,true
+2026-04-23,CNBC-e,BİM yeni magaza acilislarini planlandigi sekilde surduruyor,STOCK,BIMAS,0.9717,0.8151,BIMAS,LABELED,STOCK,BIMAS,true,true
+2026-04-23,Ekonomim,BIMAS indirim market modelindeki verimlilikle dikkat cekiyor,STOCK,BIMAS,0.9569,0.5597,BIMAS,LABELED,STOCK,BIMAS,true,true
+2026-04-23,AA,BIM tedarik zinciri optimizasyonuyla marj baskisini sinirliyor,STOCK,BIMAS,0.4182,0.9695,BIMAS,LABELED,STOCK,BIMAS,true,true
+2026-04-23,BloombergHT,MGROS online kanal satislarindaki buyumeyle izleniyor,STOCK,MGROS,0.9607,0.5465,MGROS,LABELED,STOCK,MGROS,true,true
+2026-04-23,ForInvest,Migros taze gida kategorisindeki talep gucuyle one cikti,STOCK,MGROS,0.9702,0.5401,MGROS,LABELED,STOCK,MGROS,true,true
+2026-04-23,Dunya,MGROS sadakat programi etkisiyle musteri trafigini artiriyor,STOCK,MGROS,0.9623,0.5610,MGROS,LABELED,STOCK,MGROS,true,true
+2026-04-23,AA,Migros depo otomasyonu yatirimlarini surduruyor,STOCK,MGROS,0.9321,0.9508,MGROS,LABELED,STOCK,MGROS,true,true
+2026-04-23,Reuters,EKGYO yeni etap satislarindan gelen nakit akisiyla destek buldu,STOCK,EKGYO,0.9793,0.9736,EKGYO,LABELED,STOCK,EKGYO,true,true
+2026-04-23,CNBC-e,Emlak Konut proje teslim takvimiyle yatirimcilarin radarinda,STOCK,EKGYO,0.9660,0.9777,EKGYO,LABELED,STOCK,EKGYO,true,true
+2026-04-23,Ekonomim,EKGYO on satis gelirlerindeki ivmeyle dikkat cekiyor,STOCK,EKGYO,0.9596,0.9617,EKGYO,LABELED,STOCK,EKGYO,true,true
+2026-04-23,AA,Emlak Konut konut kredi faizlerindeki hareketi yakindan izliyor,STOCK,EKGYO,0.9741,0.8549,EKGYO,LABELED,STOCK,EKGYO,true,true
+2026-04-23,BloombergHT,LOGO abonelik bazli bulut gelirlerini buyutmeye devam ediyor,STOCK,LOGO,0.9691,0.5351,LOGO,LABELED,STOCK,LOGO,true,true
+2026-04-23,ForInvest,Logo Yazilim KOBI urun tarafinda yeni musteri kazanimina odaklandi,STOCK,LOGO,0.9438,0.9760,LOGO,LABELED,STOCK,LOGO,true,true
+2026-04-23,Dunya,LOGO tekrarlayan gelir payindaki artisla one cikiyor,STOCK,LOGO,0.9629,0.9651,LOGO,LABELED,STOCK,LOGO,true,true
+2026-04-23,AA,Logo Yazilim e-donusum urun grubunda buyume bekliyor,STOCK,LOGO,0.9646,0.9677,LOGO,LABELED,STOCK,LOGO,true,true
+2026-04-23,Reuters,NETAS kamu projelerindeki siparis birikimiyle destek buldu,STOCK,NETAS,0.7787,0.5591,NETAS,LABELED,STOCK,NETAS,true,true
+2026-04-23,CNBC-e,Netaş ag altyapi tarafindaki yeni ihalelerle izlendi,STOCK,NETAS,0.8963,0.9591,NETAS,LABELED,STOCK,NETAS,true,true
+2026-04-23,Ekonomim,NETAS savunma ve kamu tarafindaki projelerden gelir bekliyor,STOCK,NETAS,0.9727,0.9730,NETAS,LABELED,STOCK,NETAS,true,true
+2026-04-23,AA,Netaş sistem entegrasyonu kabiliyetleriyle yeni sozlesmelere odaklandi,STOCK,NETAS,0.4230,0.5526,NETAS,LABELED,STOCK,NETAS,true,true
+2026-04-23,BloombergHT,ENJSA dagitim yatirimlarinin getirisiyle nakit akisina destek sagliyor,STOCK,ENJSA,0.9788,0.8660,ENJSA,LABELED,STOCK,ENJSA,true,true
+2026-04-23,ForInvest,Enerjisa duzenleyici mekanizmanin katkisi ile istikrar sagliyor,STOCK,ENJSA,0.9655,0.5559,ENJSA,LABELED,STOCK,ENJSA,true,true
+2026-04-23,Dunya,ENJSA dagitim ve perakende dengesini koruyor,STOCK,ENJSA,0.7797,0.5979,ENJSA,LABELED,STOCK,ENJSA,true,true
+2026-04-23,AA,Enerjisa tahsilat tarafindaki guclu gorunumle izleniyor,STOCK,ENJSA,0.9533,0.9572,ENJSA,LABELED,STOCK,ENJSA,true,true
+2026-04-23,Reuters,ARCLK Avrupa talebindeki toparlanma beklentileriyle destek buluyor,STOCK,ARCLK,0.9528,0.9843,ARCLK,LABELED,STOCK,ARCLK,true,true
+2026-04-23,CNBC-e,Arcelik premium urun karmasi sayesinde gelir kalitesini artiriyor,STOCK,ARCLK,0.9754,0.5571,ARCLK,LABELED,STOCK,ARCLK,true,true
+2026-04-23,Ekonomim,ARCLK ihracat pazarlarindaki ivmelenmeyle dikkat cekti,STOCK,ARCLK,0.9569,0.4869,ARCLK,LABELED,STOCK,ARCLK,true,true
+2026-04-23,AA,Arcelik yeni donemde maliyet yonetimine odaklaniyor,STOCK,ARCLK,0.9602,0.9547,ARCLK,LABELED,STOCK,ARCLK,true,true
+2026-04-23,BloombergHT,FROTO elektrikli arac uretim planlariyla sektorunde one cikiyor,STOCK,FROTO,0.9762,0.9720,FROTO,LABELED,STOCK,FROTO,true,true
+2026-04-23,ForInvest,Ford Otosan ihracat siparis akisindaki canlanmayla izleniyor,STOCK,FROTO,0.9249,0.9669,FROTO,LABELED,STOCK,FROTO,true,true
+2026-04-22T11:54:28Z,Retail Banker International,UK’s FCA names eight banks for AI testing,STOCK,UNKNOWN,0.1785,0.0000,,UNLABELED,,,,
+2026-04-22T11:51:21Z,Investing.com Türkiye,Old National hisse başına kazanç tahminini aştı ancak gelir beklentinin altında kaldı - Investing.com Türkiye,OTHER,UNKNOWN,0.6178,0.0000,,UNLABELED,,,,
+2026-04-22T11:49:35Z,24/7 Wall St.,Passive Income Investors Are Grabbing These 6% Dividend Stocks Hand-Over-Fist,OTHER,UNKNOWN,0.9707,0.0000,,UNLABELED,,,,
+2026-04-22T11:48:09Z,Investor's Business Daily,Dow Jones Futures Rise As Trump Extends Iran Ceasefire; Tesla Earnings Due,INDEX,DJI,0.9686,0.0264,DJI,LABELED,INDEX,DJI,true,true
+2026-04-22T11:46:53Z,Private Banker International,FL Putnam buys Michigan RIA Arcadia,OTHER,UNKNOWN,0.9202,0.0000,,UNLABELED,,,,
+2026-04-22T11:46:36Z,Yahoo Finance,"Bitcoin and ethereum prices today, Wednesday, April 22, 2026: Prices rising following ceasefire extension - Yahoo Finance",CRYPTO,ETH,0.9303,0.0328,ETH,LABELED,CRYPTO,ETH,true,true
+2026-04-22T11:46:36Z,Yahoo Personal Finance,"Bitcoin and ethereum prices today, Wednesday, April 22, 2026: Prices rising following ceasefire extension",CRYPTO,ETH,0.9774,0.0653,ETH,LABELED,CRYPTO,ETH,true,true
+2026-04-22T11:46:27Z,Investor's Business Daily,"Boeing Trounces Estimates, FAA Sees Path To Key Certifications",OTHER,UNKNOWN,0.2156,0.0000,,UNLABELED,,,,
+2026-04-22T11:46:06Z,Investing.com Türkiye,"Boeing teslimatlar arttıkça tahminleri aştı, hisse fırladı Yazar Investing.com - Investing.com Türkiye",OTHER,UNKNOWN,0.9799,0.0000,,UNLABELED,,,,
+2026-04-22T11:45:12Z,Investor's Business Daily,"AT&T Earnings Top Views, Revenue In-Line Amid 'Convergence' Push",OTHER,UNKNOWN,0.9680,0.0000,,UNLABELED,,,,
+2026-04-22T11:45:00Z,Moneywise,Meta seeks workers with no experience for data center jobs amid AI-driven shortage,OTHER,UNKNOWN,0.9808,0.0000,,UNLABELED,,,,
+2026-04-22T11:43:10Z,Private Banker International,Citi picks Advyzon for global UMA programme,OTHER,UNKNOWN,0.2015,0.0000,,UNLABELED,,,,
+2026-04-22T11:41:44Z,CNBC,"It's very hard not to be bullish on AI and crypto right now, says ProCap Financial's Anthony Pompliano - CNBC",OTHER,UNKNOWN,0.9889,0.0000,,UNLABELED,,,,
+2026-04-22T11:40:30Z,Cushman & Wakefield,Anshul Jain on Strong Demand Outpacing Supply in India’s Office Market in Q1 2026 - Cushman & Wakefield,OTHER,UNKNOWN,0.9882,0.0000,,UNLABELED,,,,
+2026-04-22T11:40:00Z,Motley Fool,Is CVS Health the Ultimate Value Stock to Buy Right Now?,OTHER,UNKNOWN,0.9383,0.0000,,UNLABELED,,,,
+2026-04-22T11:39:01Z,Private Banker International,Zurich UK unit sets up UHNW-focused support service for advisers,OTHER,UNKNOWN,0.9722,0.0000,,UNLABELED,,,,
+2026-04-22T11:38:17Z,Yahoo Finance,What Apple's naming of John Ternus as CEO tells us about the future of the company,STOCK,AAPL,0.9823,0.0070,AAPL,LABELED,STOCK,AAPL,true,true
+2026-04-22T11:36:31Z,Insider Monkey,Can Upstart Holdings (UPST) Double in the Next 5 Years?,STOCK,UPST,0.9632,0.0014,UPST,LABELED,STOCK,UPST,true,true
+2026-04-22T11:36:22Z,Insider Monkey,Here’s What Baird Thinks About ​Affirm Holdings (AFRM),STOCK,AFRM,0.6754,0.5505,AFRM,LABELED,STOCK,AFRM,true,true
+2026-04-22T11:36:13Z,Insider Monkey,JPMorgan and Morgan Stanley Bullish on Western Digital (WDC),STOCK,WDC,0.3989,0.0074,WDC,LABELED,STOCK,WDC,true,true
+2026-04-22T11:36:04Z,Insider Monkey,Here’s Why Mizuho Lowered Price Target on Palantir Technologies (PLTR),STOCK,PLTR,0.9709,0.9780,PLTR,LABELED,STOCK,PLTR,true,true
+2026-04-22T11:35:56Z,Insider Monkey,Here’s Why Wall Street is Cautious on Intel Corporation (INTC),STOCK,INTC,0.9600,0.7961,INTC,LABELED,STOCK,INTC,true,true
+2026-04-22T11:35:48Z,Insider Monkey,​Lumentum Holdings (LITE) Sold Out Through 2027 on High Demand,STOCK,LITE,0.9753,0.5609,LITE,LABELED,STOCK,LITE,true,true
+2026-04-22T11:35:40Z,Insider Monkey,Can Shopify Inc. (SHOP) Double in the Next 5 Years?,STOCK,SHOP,0.9683,0.9755,SHOP,LABELED,STOCK,SHOP,true,true
+2026-04-22T11:35:26Z,24/7 Wall St.,"If You Bought Coca-Cola When Buffett Did, Here’s What You Have Today",OTHER,UNKNOWN,0.9686,0.0000,,UNLABELED,,,,
+2026-04-22T11:35:16Z,Insider Monkey,Here’s What Argus Research Thinks About ​AppLovin (APP),STOCK,APP,0.7143,0.9689,APP,LABELED,STOCK,APP,true,true
+2026-04-22T11:35:09Z,Insider Monkey,"Roth Capital Raises PT on Vertiv (VRT), Here’s Why",OTHER,UNKNOWN,0.9605,0.0000,,UNLABELED,,,,
+2026-04-22T11:35:02Z,Insider Monkey,Jefferies and BTIG Bullish on MercadoLibre (MELI),STOCK,MELI,0.9472,0.0077,MELI,LABELED,STOCK,MELI,true,true
+2026-04-22T11:35:00Z,Motley Fool,Walmart's Aerial Advantage: Drone Deliveries Can Boost Sales and Customer Loyalty,OTHER,UNKNOWN,0.9708,0.0000,,UNLABELED,,,,
+2026-04-22T11:34:54Z,Insider Monkey,"​Wall Street Bullish on Advanced Micro Devices (AMD), Here’s What Analysts Have to Say",STOCK,AMD,0.9816,0.9844,AMD,LABELED,STOCK,AMD,true,true
+2026-04-22T11:34:47Z,Insider Monkey,"Benchmark Bullish on Broadcom (AVGO), Here’s What the Firm Thinks About Meta Deal",STOCK,AVGO,0.9807,0.4720,AVGO,LABELED,STOCK,AVGO,true,true
+2026-04-22T11:34:40Z,Insider Monkey,Cadence Design And Nvidia (NVDA) Partnering to Boost AI Robo Development,STOCK,NVDA,0.9746,0.4700,NVDA,LABELED,STOCK,NVDA,true,true
+2026-04-22T11:33:54Z,Yahoo Finance,We Ran A Stock Scan For Earnings Growth And Solution Financial (TSE:SFI) Passed With Ease - Yahoo Finance,OTHER,UNKNOWN,0.9842,0.0000,,UNLABELED,,,,
+2026-04-22T11:32:58Z,Öz Finans-İş Sendikası,"TÜHİS GENEL SEKRETERİ BAŞ, GENEL BAŞKANIMIZ EROĞLU'NU ZİYARET ETTİ - Öz Finans-İş Sendikası",OTHER,UNKNOWN,0.1890,0.0000,,UNLABELED,,,,
+2026-04-22T11:32:00Z,Yahoo Finance,Forget This 9.4% Yielding Dividend Stock: 1 Rock‑Solid Income Stock That's Much Safer - Yahoo Finance,OTHER,UNKNOWN,0.8789,0.0000,,UNLABELED,,,,
+2026-04-22T11:31:06Z,Reuters,"Societe Generale takes on more crypto firms as clients, SG-FORGE CEO says - Reuters",OTHER,UNKNOWN,0.9926,0.0000,,UNLABELED,,,,
+2026-04-22T11:30:47Z,Reuters,"Societe Generale takes on more crypto firms as clients, SG-FORGE CEO says",OTHER,UNKNOWN,0.9731,0.0000,,UNLABELED,,,,
+2026-04-22T11:30:00Z,Yahoo Finance,Stock Yards Bancorp Reports First Quarter Earnings of $36.6 Million or $1.24 Per Diluted Share - Yahoo Finance,STOCK,FBNC,0.4322,0.2476,,UNLABELED,,,,
+2026-04-22T11:29:08Z,Insider Monkey,Riverwater Sustainable Value Strategy’s Analysis on Century Aluminum Company (CENX),STOCK,CENX,0.9678,0.0079,CENX,LABELED,STOCK,CENX,true,true
+2026-04-22T11:27:25Z,Insider Monkey,Is VinFast Auto Ltd (VFS) Among the Must-Buy Penny Stocks to Invest In Now?,STOCK,VFS,0.9671,0.5612,VFS,LABELED,STOCK,VFS,true,true
+2026-04-22T11:27:06Z,Insider Monkey,Why Coty Inc (COTY) Won’t Touch These Brands in Its Strategic Review,OTHER,UNKNOWN,0.9742,0.0000,,UNLABELED,,,,
+2026-04-22T11:26:37Z,Insider Monkey,Will UWM Holdings Corp (UWMC) Go to the Mat to Get Two Harbors?,OTHER,UNKNOWN,0.9679,0.0000,,UNLABELED,,,,
+2026-04-22T11:26:23Z,Insider Monkey,What to Know About Playtika Holding Corp (PLTK)’s Strategic Shift,STOCK,PLTK,0.9742,0.6067,PLTK,LABELED,STOCK,PLTK,true,true
+2026-04-22T11:26:06Z,Insider Monkey,Here’s What BofA Securities Thinks About Grab Holdings Ltd (GRAB),STOCK,GRAB,0.9746,0.4224,GRAB,LABELED,STOCK,GRAB,true,true
+2026-04-22T11:25:59Z,Insider Monkey,Recursion Pharmaceuticals Inc (RXRX): Is AI Strategy Working?,STOCK,RXRX,0.6017,0.5547,RXRX,LABELED,STOCK,RXRX,true,true
+2026-04-22T11:25:36Z,Insider Monkey,Iovance Biotherapeutics Inc (IOVA): Jefferies Draws Attention Amtagvi Drug,STOCK,IOVA,0.9759,0.9765,IOVA,LABELED,STOCK,IOVA,true,true
+2026-04-22T11:25:27Z,Insider Monkey,Nuvation Bio Inc (NUVB): Take a Look at Glioma Revenue Potential,OTHER,UNKNOWN,0.9678,0.0000,,UNLABELED,,,,
+2026-04-22T11:25:18Z,Insider Monkey,What’s Guggenheim Updates View on AtaiBeckley Inc (ATAI)?,STOCK,ATAI,0.9683,0.0077,ATAI,LABELED,STOCK,ATAI,true,true
+2026-04-22T11:23:41Z,Investing.com Türkiye,Metso’nun 1Ç 2026 sunumu sipariş artışı gösterdi ancak hisse kazanç kaybıyla düştü - Investing.com Türkiye,OTHER,UNKNOWN,0.9881,0.0000,,UNLABELED,,,,
+2026-04-22T11:23:40Z,Investing.com Türkiye,"Surf Air Mobility içeriden 5,3 milyon dolarlık hisse alımı Yazar Investing.com - Investing.com Türkiye",OTHER,UNKNOWN,0.9784,0.0000,,UNLABELED,,,,
+2026-04-22T11:23:39Z,Investing.com Türkiye,"Kanzhun 27,2 milyon RMB karşılığında 579.118 hisse geri aldı Yazar Investing.com - Investing.com Türkiye",OTHER,UNKNOWN,0.9838,0.0000,,UNLABELED,,,,
+2026-04-22T11:21:15Z,Mynet Finans,"Altın, dolar, euro, borsa: Faiz kararı sonrası piyasada son durum - Finans haberlerinin doğru adresi - Mynet Finans Haber - Mynet Finans",COMMODITY,XAUUSD,0.9784,0.0676,XAUUSD,LABELED,COMMODITY,XAUUSD,true,true
+2026-04-22T11:18:59Z,Yahoo Finance,Are consumers finally cracking under the weight of $4 gas?,OTHER,UNKNOWN,0.2266,0.0000,,UNLABELED,,,,
+2026-04-22T11:16:47Z,Investing.com Türkiye,"Healthcare Services Group kazançta beklentileri aştı, hisse %3 yükseldi Yazar Investing.com - Investing.com Türkiye",OTHER,UNKNOWN,0.8017,0.0000,,UNLABELED,,,,
+2026-04-22T11:07:30Z,Argus Research,Daily Spotlight: Consumers Remain Resilient,OTHER,UNKNOWN,0.9501,0.0000,,UNLABELED,,,,
+2026-04-22T11:06:57Z,Argus Research,Technical Assessment: Bullish in the Intermediate-Term,OTHER,UNKNOWN,0.9414,0.0000,,UNLABELED,,,,
+2026-04-22T11:02:47Z,Argus Research,Analyst Report: Genuine Parts Co,OTHER,UNKNOWN,0.9645,0.0000,,UNLABELED,,,,
+2026-04-22T11:02:47Z,Argus Research,Analyst Report: Thomson-Reuters Corp,OTHER,UNKNOWN,0.9045,0.0000,,UNLABELED,,,,
+2026-04-22T11:02:47Z,Argus Research,Analyst Report: Unitedhealth Group Inc,OTHER,UNKNOWN,0.8932,0.0000,,UNLABELED,,,,
+2026-04-22T11:02:39Z,Yahoo Finance,"Best Buy taps insider Jason Bonfig as new CEO, Corie Barry steps down - Yahoo Finance",OTHER,UNKNOWN,0.4116,0.0000,,UNLABELED,,,,
+2026-04-22T11:00:00Z,WSJ,Exclusive | How Mighty Capital Overcame a Tough Market to Raise a New Fund - WSJ,OTHER,UNKNOWN,0.9841,0.0000,,UNLABELED,,,,
+2026-04-22T10:54:00Z,Yahoo Finance,Prediction: Palantir Stock Could Fall 80% Further - Yahoo Finance,OTHER,UNKNOWN,0.4650,0.0000,,UNLABELED,,,,
+2026-04-22T10:53:04Z,CNBC,Stock futures rise after Trump extends ceasefire with Iran - CNBC,OTHER,UNKNOWN,0.9517,0.0000,,UNLABELED,,,,
+2026-04-22T10:52:00Z,E&E News by POLITICO,California EV sales plummet to lowest market share since 2021 - E&E News by POLITICO,OTHER,UNKNOWN,0.9821,0.0000,,UNLABELED,,,,
+2026-04-22T10:50:47Z,Reuters,Morning Bid: Another deadline dodged - Reuters,OTHER,UNKNOWN,0.9637,0.0000,,UNLABELED,,,,
+2026-04-22T10:50:36Z,Foreks.com,ForInvest Haber borsa kapanış tahmini anketi sonuçlandı - Foreks.com,OTHER,UNKNOWN,0.9722,0.0000,,UNLABELED,,,,
+2026-04-22T10:50:00Z,Yahoo Finance,"Surf Air Mobility Co-Founders, Officers, and Directors Backing 2026 Plan with Common Stock Purchases - Yahoo Finance",OTHER,UNKNOWN,0.9859,0.0000,,UNLABELED,,,,
+2026-04-22T10:47:47Z,Argus Research,"Market Digest: AAPL, GPC, UNH, ZION, TRI",STOCK,AAPL,0.9531,0.0087,AAPL,LABELED,STOCK,AAPL,true,true
+2026-04-22T10:44:40Z,Cổng thông tin điện tử Tỉnh Sơn La,Is Texas (TXN) stock forming a squeeze pattern | Texas Posts 2.8% EPS Miss On Sluggish Chip Demand - Downside Surprise - Cổng thông tin điện tử Tỉnh Sơn La,STOCK,TXN,0.6168,0.5642,TXN,LABELED,STOCK,TXN,true,true
+2026-04-22T10:43:02Z,Reuters,Crypto exchanges gear up to launch US perpetual futures ahead of rule change - Reuters,OTHER,UNKNOWN,0.8008,0.0000,,UNLABELED,,,,
+2026-04-22T10:40:37Z,Cổng thông tin điện tử Tỉnh Sơn La,3M Company (MMM) Stock: Is It Undervalued | Q4 2025: Profit Exceeds Views - Professional Trade Ideas - Cổng thông tin điện tử Tỉnh Sơn La,OTHER,UNKNOWN,0.9698,0.0000,,UNLABELED,,,,
+2026-04-22T10:39:13Z,Cổng thông tin điện tử Tỉnh Sơn La,Biote (BTMD) Stock: Key Drivers Analysis | Q4 2025: Earnings Beat Estimates - Trending Social Stocks - Cổng thông tin điện tử Tỉnh Sơn La,STOCK,BTMD,0.9780,0.4293,BTMD,LABELED,STOCK,BTMD,true,true
+2026-04-22T10:39:12Z,getmidas.com,Avrupa’da kripto yatırımcılarının oranı dört büyük ekonomide yüzde 25’e ulaştı - getmidas.com,OTHER,UNKNOWN,0.2744,0.0000,,UNLABELED,,,,
+2026-04-22T10:37:32Z,CNBC,Trump extends Iran ceasefire — but market focus has already drifted elsewhere - CNBC,OTHER,UNKNOWN,0.9725,0.0000,,UNLABELED,,,,
+2026-04-22T10:35:00Z,Yahoo Finance,Retirees: Here's Why I'd Own SCHD Over Bonds in a Volatile Market - Yahoo Finance,OTHER,UNKNOWN,0.9849,0.0000,,UNLABELED,,,,
+2026-04-22T10:34:27Z,Investing.com Türkiye,"Evercore ISI, marj baskıları nedeniyle UPS hisse hedefini 113 dolara indirdi - Investing.com Türkiye",OTHER,UNKNOWN,0.9836,0.0000,,UNLABELED,,,,
+2026-04-22T10:33:04Z,Ekonomi Gazetesi,"Birleşik Krallık, Borsa İstanbul'u 'tanıdı' - Ekonomi Gazetesi",OTHER,UNKNOWN,0.9745,0.0000,,UNLABELED,,,,
+2026-04-22T10:31:32Z,capital.com.tr,"Piyasalarda gün ortası... Borsa, döviz ve altında son durum ne? (22 Nisan 2026) - capital.com.tr",OTHER,UNKNOWN,0.2212,0.0000,,UNLABELED,,,,
+2026-04-22T10:30:00Z,Yahoo Finance,From $500 to $1: Is Canopy Growth a Dead Stock Walking or the Ultimate Turnaround Play? - Yahoo Finance,OTHER,UNKNOWN,0.9863,0.0000,,UNLABELED,,,,
+2026-04-22T10:27:00Z,Yahoo Finance,Is This Struggling Value Stock Going to $0? - Yahoo Finance,OTHER,UNKNOWN,0.9661,0.0000,,UNLABELED,,,,
+2026-04-22T10:26:07Z,CNBC,"The Pre-Market Rundown: April 22, 2026 - CNBC",OTHER,UNKNOWN,0.9528,0.0000,,UNLABELED,,,,
+2026-04-22T10:26:00Z,Yahoo Finance,Maritime Security Market Global Report 2026: Growing Shifts from Response-driven Approaches to Dynamic Adaptation - Forecast to 2032 - Yahoo Finance,OTHER,UNKNOWN,0.9932,0.0000,,UNLABELED,,,,
+2026-04-22T10:25:13Z,Cổng thông tin điện tử tỉnh Lào Cai,NNBR (NN Inc.) stock gains nearly 14 percent even as it misses Q4 2025 earnings estimates. - Community Risk Signals - Cổng thông tin điện tử tỉnh Lào Cai,STOCK,NNBR,0.9817,0.4325,NNBR,LABELED,STOCK,NNBR,true,true
+2026-04-22T10:24:19Z,Investing.com Türkiye,"Truist, güçlü 1Ç sonrası UnitedHealth hisse hedefini 395 dolara yükseltti - Investing.com Türkiye",OTHER,UNKNOWN,0.9803,0.0000,,UNLABELED,,,,
+2026-04-22T10:21:01Z,S&P Global,"Market eyes US midstream's outlooks on gas production, projects in Q2 earnings - S&P Global",OTHER,UNKNOWN,0.9776,0.0000,,UNLABELED,,,,
+2026-04-22T10:16:59Z,S&P Global,Prudential Financial stock drops as suspension of new sales in Japan is extended - S&P Global,OTHER,UNKNOWN,0.9718,0.0000,,UNLABELED,,,,
+2026-04-22T10:15:18Z,Yeni Şafak,"Borsa İstanbul 23 Nisan Perşembe açık mı, kapalı mı 2026? Borsa İstanbul 23 Nisan çalışma saatleri - Yeni Şafak",OTHER,UNKNOWN,0.9908,0.0000,,UNLABELED,,,,
+2026-04-22T10:14:12Z,Cổng thông tin điện tử Tỉnh Sơn La,Should I buy MIRA Pharmaceuticals (MIRA) stock right now | Q3 2025: EPS Exceeds Expectations - Price Target - Cổng thông tin điện tử Tỉnh Sơn La,STOCK,MIRA,0.5845,0.5784,MIRA,LABELED,STOCK,MIRA,true,true
+2026-04-22T10:12:47Z,Argus Research,Daily – Vickers Top Buyers & Sellers for 04/22/2026,OTHER,UNKNOWN,0.8319,0.0000,,UNLABELED,,,,
+2026-04-22T10:12:47Z,Argus Research,Daily – Vickers Top Insider Picks for 04/22/2026,OTHER,UNKNOWN,0.9663,0.0000,,UNLABELED,,,,
+2026-04-22T10:11:20Z,Morningstar,Broadcom: This Quality Stock Trades at a Surprising Discount. Is It a Must-Buy? - Morningstar,OTHER,UNKNOWN,0.9837,0.0000,,UNLABELED,,,,
+2026-04-22T10:08:00Z,The Colorado Sun,Loss of electric vehicle subsidies sends Colorado car sales off a cliff - The Colorado Sun,OTHER,UNKNOWN,0.5770,0.0000,,UNLABELED,,,,
+2026-04-22T10:03:57Z,Cổng thông tin điện tử tỉnh Lào Cai,Is PennyMac (PMTW) stock testing breakout levels | PennyMac 2030 9% Senior Notes delivers 19.7% positive EPS surprise - Global Trading Community - Cổng thông tin điện tử tỉnh Lào Cai,OTHER,UNKNOWN,0.9859,0.0000,,UNLABELED,,,,
+2026-04-22T10:00:32Z,The Real Economy Blog,Market Minute: The Fed’s SOMA holdings and the challenge of balance sheet run-off - The Real Economy Blog,OTHER,UNKNOWN,0.5609,0.0000,,UNLABELED,,,,
+2026-04-22T10:00:03Z,Borsanın Gündemi,Borsa İstanbul 2 hisseyi daha tedbir kapsamına aldı haberi - Borsanın Gündemi,OTHER,UNKNOWN,0.7972,0.0000,,UNLABELED,,,,
+2026-04-22T10:00:00Z,Yahoo Finance,Here are the best — and worst — times of the year to buy Apple stock: Chart of the Day - Yahoo Finance,STOCK,AAPL,0.9794,0.0405,AAPL,LABELED,STOCK,AAPL,true,true
+2026-04-22T10:00:00Z,Yahoo Finance,Morning Brief: Ceasefire extended - Yahoo Finance,OTHER,UNKNOWN,0.9363,0.0000,,UNLABELED,,,,
+2026-04-22T10:00:00Z,Yahoo Finance,"Newborn Town Releases First Operating Update Since Stock Connect Inclusion, Reporting 33.0%-39.6% YoY Revenue Growth - Yahoo Finance",OTHER,UNKNOWN,0.9843,0.0000,,UNLABELED,,,,
+2026-04-22T09:59:12Z,Anadolu Ajansı,"Bulls Yatırım Holding, filo kiralama şirketi Escar'ın yüzde 77,62'lik hissesini satın aldı - Anadolu Ajansı",OTHER,UNKNOWN,0.6497,0.0000,,UNLABELED,,,,
+2026-04-22T09:53:54Z,Cổng thông tin điện tử Tỉnh Sơn La,Risk Assessment Overview | 1.2% EPS miss reported for CMS Energy Corporation - Real Trader Insights - Cổng thông tin điện tử Tỉnh Sơn La,STOCK,UNKNOWN,0.7201,0.0000,,UNLABELED,,,,
+2026-04-22T09:51:48Z,BBC,Car finance compensation scheme faces challenge and delay - BBC,OTHER,UNKNOWN,0.3975,0.0000,,UNLABELED,,,,
+2026-04-22T09:48:31Z,Anadolu Ajansı,"Borsa İstanbul, Birleşik Krallık Gelir ve Gümrük İdaresince Tanınmış Borsa kabul edildi - Anadolu Ajansı",OTHER,UNKNOWN,0.9889,0.0000,,UNLABELED,,,,
+2026-04-22T09:47:44Z,Yahoo Finance,Netflix (NFLX): The Best Beginner Stock to Buy Right Now - Yahoo Finance,STOCK,NFLX,0.9268,0.9835,NFLX,LABELED,STOCK,NFLX,true,true
+2026-04-22T09:38:04Z,Yahoo Finance,MicroStrategy’s STRC Preferred Stock Buys 10X More Bitcoin Than All ETFs in 2026 - Yahoo Finance,CRYPTO,BTC,0.6545,0.7284,BTC,LABELED,CRYPTO,BTC,true,true
+2026-04-22T09:36:43Z,Investing.com Türkiye,"Citizens, Chubb’ın hisse hedefini küresel büyüme görünümüyle yükseltti Yazar Investing.com - Investing.com Türkiye",OTHER,UNKNOWN,0.9829,0.0000,,UNLABELED,,,,
+2026-04-22T09:30:30Z,Investing.com Türkiye,"Goldman Sachs, Duolingo için hisse hedefini düşürdü Yazar Investing.com - Investing.com Türkiye",OTHER,UNKNOWN,0.9791,0.0000,,UNLABELED,,,,
+2026-04-22T09:19:12Z,Cổng thông tin điện tử tỉnh Lào Cai,Columbia Bank posts 12.5 pct EPS beat on solid core results - Community Sell Signals - Cổng thông tin điện tử tỉnh Lào Cai,OTHER,UNKNOWN,0.9846,0.0000,,UNLABELED,,,,
+2026-04-22T09:15:30Z,Diken,"Britanya, Borsa İstanbul'u 'tanınmış borsa' olarak kabul etti - Diken",OTHER,UNKNOWN,0.9733,0.0000,,UNLABELED,,,,
+2026-04-22T09:10:12Z,Anadolu Ajansı,Akbank'ın AI for Good Türkiye programını kazanan girişim açıklandı - Anadolu Ajansı,STOCK,AKBNK,0.9565,0.9825,AKBNK,LABELED,STOCK,AKBNK,true,true
+2026-04-22T09:09:32Z,Cổng thông tin điện tử Tỉnh Sơn La,Is Red Robin (RRGB) stock worth watching | Q4 2025: EPS Tops Views - Social Investment Platform - Cổng thông tin điện tử Tỉnh Sơn La,STOCK,RRGB,0.9757,0.5771,RRGB,LABELED,STOCK,RRGB,true,true
+2026-04-22T09:04:00Z,Yahoo Finance,"Buy This Stock-Split Growth Stock With 44% Upside, According to a Wall Street Analyst - Yahoo Finance",OTHER,UNKNOWN,0.9140,0.0000,,UNLABELED,,,,
+2026-04-22T09:04:00Z,Yahoo Finance,I'd Buy More of These 2 Dividend Stocks Before the Market Figures Out What It's Missing - Yahoo Finance,OTHER,UNKNOWN,0.8806,0.0000,,UNLABELED,,,,
+2026-04-22T09:00:30Z,The New York Times,Why the NFL Draft is a nightmare for oddsmakers: ‘The market hasn’t grown up’ - The New York Times,OTHER,UNKNOWN,0.9902,0.0000,,UNLABELED,,,,
+2026-04-22T08:59:13Z,Yahoo Finance,Apple CEO Tim Cook is stepping down just as its stock breakout is in trouble - Yahoo Finance,STOCK,AAPL,0.9670,0.1805,AAPL,LABELED,STOCK,AAPL,true,true
+2026-04-22T08:54:44Z,Anadolu Ajansı,MasterKOBİ platformu yenilendi - Anadolu Ajansı,OTHER,UNKNOWN,0.9487,0.0000,,UNLABELED,,,,
+2026-04-22T08:43:20Z,ankahaber.net,Merkez Bankası faiz kararı bekleniyor... Finans uzmanı Prof. Dr. Aktaş: Rasyonel olan faizi artırmak - ankahaber.net,OTHER,UNKNOWN,0.9725,0.0000,,UNLABELED,,,,
+2026-04-22T08:40:00Z,Yahoo Finance,1 Wall Street Analyst Says Tilray Stock Could Jump Over 40%. Should You Believe It? - Yahoo Finance,OTHER,UNKNOWN,0.9904,0.0000,,UNLABELED,,,,
+2026-04-22T08:40:00Z,Yahoo Finance,Float Glass Industry Forecast Report 2025-2026 & 2030: $298.65 Billion Market Opportunities Fueled by Growth in Solar Energy and Renewable Applications and Rising Adoption in Emerging Economies - Yahoo Finance,OTHER,UNKNOWN,0.9924,0.0000,,UNLABELED,,,,
+2026-04-22T08:34:12Z,CNBC,Why 3 of Europe's biggest economies are paying a premium for borrowing as bond traders baulk at 'BIF' debt credibility - CNBC,OTHER,UNKNOWN,0.9899,0.0000,,UNLABELED,,,,
+2026-04-22T08:34:00Z,Yahoo Finance,Nutraceutical Gummies Global Market Forecast Report 2026-2030: Plant-Based and Sugar-Free Trends Drive Expansion into Personalized Nutrition and AI-Driven Formulation Models - Yahoo Finance,COMMODITY,SUGAR,0.9789,0.0427,SUGAR,LABELED,COMMODITY,SUGAR,true,true
+2026-04-22T08:30:00Z,Yahoo Finance,"Global Industrial Microwave Heating Equipment Market Size/Share Worth USD 4.12 Billion by 2035 at a 7.6% CAGR: Custom Market Insights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, SWOT Analysis) - Yahoo Finance",OTHER,UNKNOWN,0.9958,0.0000,,UNLABELED,,,,
+2026-04-22T08:24:56Z,Morningstar,5 Ways to Benefit From a Volatile Stock Market - Morningstar,OTHER,UNKNOWN,0.9676,0.0000,,UNLABELED,,,,
+2026-04-22T08:24:56Z,Morningstar,"Ahead of Earnings, Is Apple Stock a Buy, a Sell, or Fairly Valued? - Morningstar",STOCK,AAPL,0.9677,0.1723,AAPL,LABELED,STOCK,AAPL,true,true
+2026-04-22T08:23:14Z,İlke Haber Ajansı,Kuzey Koreli hackerlardan 300 milyon dolarlık kripto soygunu - İlke Haber Ajansı,OTHER,UNKNOWN,0.9798,0.0000,,UNLABELED,,,,
+2026-04-22T08:21:00Z,Yahoo Finance,"Copper Wire & Cable Market by Insulation Type, Voltage Type, Installation, Application, End-use Industry, and Region - Forecast to 2032 - Yahoo Finance",COMMODITY,COPPER,0.6358,0.9923,COPPER,LABELED,COMMODITY,COPPER,true,true
+2026-04-22T08:13:18Z,Borsanın Gündemi,"Borsa İstanbul, İngiltere’de 'Tanınmış Borsa' oldu haberi - Borsanın Gündemi",OTHER,UNKNOWN,0.7859,0.0000,,UNLABELED,,,,
+2026-04-22T07:47:31Z,Anadolu Ajansı,Borsa güne yükselişle başladı - Anadolu Ajansı,OTHER,UNKNOWN,0.9341,0.0000,,UNLABELED,,,,
+2026-04-22T07:29:52Z,Mynet Finans,CANLI BORSA | Borsa yükselişle başladı: 22 Nisan 2026 Çarşamba BIST 100 endeksi - Finans haberlerinin doğru adresi - Mynet Finans Haber - Mynet Finans,INDEX,XU100,0.9860,0.9912,XU100,LABELED,INDEX,XU100,true,true
+2026-04-22T07:26:51Z,Mynet Finans,Borsa İstanbul son durum 22 Nisan Çarşamba 2026: BIST 100 yorum - Finans haberlerinin doğru adresi - Mynet Finans Haber - Mynet Finans,INDEX,XU100,0.9787,0.9929,XU100,LABELED,INDEX,XU100,true,true
+2026-04-22T07:18:00Z,Dünya Gazetesi,"23 Nisan (yarın) borsa açık mı, kapalı mı? - Dünya Gazetesi",OTHER,UNKNOWN,0.9692,0.0000,,UNLABELED,,,,
+2026-04-22T07:09:00Z,Dünya Gazetesi,"Borsa güne yükselişle başladı, gözler TCMB’nin faiz kararında - Dünya Gazetesi",OTHER,UNKNOWN,0.9872,0.0000,,UNLABELED,,,,
+2026-04-22T07:06:25Z,Investing.com Türkiye,Brisa Bridgestone Sabancı 1 milyar TL’lik tahvil ihracını tamamladı Yazar Investing.com - Investing.com Türkiye,STOCK,SAHOL,0.5125,0.9945,SAHOL,LABELED,STOCK,SAHOL,true,true
+2026-04-22T06:57:59Z,A Para,Bitcoin 78 bin doları test etti: Kripto piyasasında yükseliş rüzgarı ve yeni zirve beklentisi! - A Para,CRYPTO,BTC,0.3939,0.9922,BTC,LABELED,CRYPTO,BTC,true,true
+2026-04-22T06:37:00Z,Yahoo Finance,Memory Stock Valuations Spark Debate Over ‘Supercycle’ Potential - Yahoo Finance,OTHER,UNKNOWN,0.9740,0.0000,,UNLABELED,,,,
+2026-04-22T06:31:50Z,Mynet Finans,Illumination Acquisition Corp I (ILLUW) - Amerikan Borsası Hisse Detay | Mynet - Mynet Finans,OTHER,UNKNOWN,0.9577,0.0000,,UNLABELED,,,,
+2026-04-22T06:23:55Z,Investing.com Türkiye,Nativo Resources ATM programı kapsamında 200 milyon hisse ihraç etti Yazar Investing.com - Investing.com Türkiye,OTHER,UNKNOWN,0.9845,0.0000,,UNLABELED,,,,
+2026-04-22T05:55:23Z,Investing.com Türkiye,Escar Filo hissedarları hisse devir sözleşmesi imzaladı Yazar Investing.com - Investing.com Türkiye,OTHER,UNKNOWN,0.6840,0.0000,,UNLABELED,,,,
+2026-04-22T05:53:15Z,Mynet Finans,"Altın ateşkes kararı sonrası yükseldi (İşte petrol, gümüş fiyatı) - Finans haberlerinin doğru adresi - Mynet Finans Haber - Mynet Finans",COMMODITY,UNKNOWN,0.9789,0.0000,,UNLABELED,,,,
+2026-04-22T05:15:19Z,CoinDesk,"Çinli kripto mogulü Li Lin’in özel ticaret kolu, Hong Kong’da listelenen bir servet yönetimi şirketine taşınmaya hazırlanıyor - CoinDesk",OTHER,UNKNOWN,0.9920,0.0000,,UNLABELED,,,,
+2026-04-22T05:11:47Z,Borsanın Gündemi,25 milyar dolarlık hisse geri alımı! haberi - Borsanın Gündemi,OTHER,UNKNOWN,0.9731,0.0000,,UNLABELED,,,,
+2026-04-22T04:42:00Z,Yahoo Finance,Why Is The Crypto Market Up Today? - Yahoo Finance,OTHER,UNKNOWN,0.7901,0.0000,,UNLABELED,,,,
+2026-04-22T04:15:43Z,Investing.com Türkiye,Yesway halka arzı hisse başına 20 dolardan fiyatlandırdı Yazar Investing.com - Investing.com Türkiye,OTHER,UNKNOWN,0.9495,0.0000,,UNLABELED,,,,
+2026-04-22T04:01:01Z,Financial Times,New platform allows UK investors to hold crypto in Isas again - Financial Times,OTHER,UNKNOWN,0.9767,0.0000,,UNLABELED,,,,
+2026-04-22T03:48:35Z,Investing.com Türkiye,Yesway halka arzda hisse başına 20 dolar fiyat belirledi Yazar Investing.com - Investing.com Türkiye,OTHER,UNKNOWN,0.9847,0.0000,,UNLABELED,,,,
+2026-04-22T03:25:59Z,Investing.com Türkiye,Target Hospitality 98 milyon dolarlık hisse arzını fiyatladı Yazar Investing.com - Investing.com Türkiye,OTHER,UNKNOWN,0.7041,0.0000,,UNLABELED,,,,
+2026-04-22T02:27:25Z,Investing.com Türkiye,"Nektar, hisse başına 92 dolardan 325 milyon dolarlık hisse arzını fiyatladı Yazar Investing.com - Investing.com Türkiye",OTHER,UNKNOWN,0.9451,0.0000,,UNLABELED,,,,
+2026-04-22T02:22:50Z,Investing.com Türkiye,Fold Holdings CFO’su Wolfe 354 dolar değerinde hisse sattı Yazar Investing.com - Investing.com Türkiye,OTHER,UNKNOWN,0.9773,0.0000,,UNLABELED,,,,
+2026-04-22T02:22:50Z,Investing.com Türkiye,Fold Holdings CTO’su hisse satışı gerçekleştirdi Yazar Investing.com - Investing.com Türkiye,OTHER,UNKNOWN,0.9637,0.0000,,UNLABELED,,,,
+2026-04-22T01:23:09Z,Investing.com Türkiye,Photronics başkan yardımcısı Rui Zhang 212.765 dolar değerinde hisse sattı - Investing.com Türkiye,OTHER,UNKNOWN,0.8623,0.0000,,UNLABELED,,,,
+2026-04-22T01:23:09Z,Investing.com Türkiye,Planet 13 operasyon başkan yardımcısı 4.904 dolarlık hisse sattı Yazar Investing.com - Investing.com Türkiye,OTHER,UNKNOWN,0.9858,0.0000,,UNLABELED,,,,
+2026-04-22T01:23:08Z,Investing.com Türkiye,Natera’nın kurucu ortağı Sheena Jonathan 299.440 dolar değerinde hisse sattı - Investing.com Türkiye,OTHER,UNKNOWN,0.6947,0.0000,,UNLABELED,,,,
+2026-04-22T00:51:00Z,Investing.com Türkiye,"Trump İran ateşkesini uzattı, ABD hisse senetleri yükseldi - Investing.com Türkiye",OTHER,UNKNOWN,0.9720,0.0000,,UNLABELED,,,,
+2026-04-22T00:47:17Z,BBC,Rep Sheila Cherfilus-McCormick resigns from Congress after criminal charges - BBC,OTHER,UNKNOWN,0.9783,0.0000,,UNLABELED,,,,
+2026-04-22T00:27:00Z,Investing.com Türkiye,"HIVE Digital, %0 faizle 115 milyon dolarlık tahvil ihracını tamamladı Yazar Investing.com - Investing.com Türkiye",STOCK,HIVE,0.9599,0.0211,HIVE,LABELED,STOCK,HIVE,true,true
+2026-04-22T00:26:58Z,Investing.com Türkiye,"CrowdStrike CEO’su George Kurtz 2,13 milyon dolarlık hisse sattı - Investing.com Türkiye",OTHER,UNKNOWN,0.9765,0.0000,,UNLABELED,,,,
+2026-04-22T00:13:16Z,KSAT,Trump media company replaces ex-congressman Nunes as CEO after stock plunge that wiped out billions - KSAT,OTHER,UNKNOWN,0.6777,0.0000,,UNLABELED,,,,
+2026-04-21T23:57:51Z,Yahoo Finance,Why Dell (DELL) Stock Is Up Today - Yahoo Finance,OTHER,UNKNOWN,0.9584,0.0000,,UNLABELED,,,,
+2026-04-21T23:36:27Z,Investing.com Türkiye,"Aehr Test Systems yöneticisi Scott Gates 5,66 milyon dolarlık hisse sattı - Investing.com Türkiye",STOCK,AEHR,0.9691,0.8853,AEHR,LABELED,STOCK,AEHR,true,true
+2026-04-21T23:36:27Z,Investing.com Türkiye,"Astera Labs CEO’su 57,8 milyon dolarlık hisse sattı Yazar Investing.com - Investing.com Türkiye",OTHER,UNKNOWN,0.9636,0.0000,,UNLABELED,,,,
+2026-04-21T23:24:22Z,Investing.com Türkiye,"Arista Networks CTO’su 9,47 milyon dolarlık hisse sattı Yazar Investing.com - Investing.com Türkiye",OTHER,UNKNOWN,0.9774,0.0000,,UNLABELED,,,,
+2026-04-21T23:16:30Z,Investing.com Türkiye,Mara Holdings CEO’su 321.258 dolar değerinde hisse sattı Yazar Investing.com - Investing.com Türkiye,OTHER,UNKNOWN,0.9609,0.0000,,UNLABELED,,,,
+2026-04-21T23:16:20Z,Investing.com Türkiye,Mara Holdings’in genel danışmanı 505.080 dolarlık hisse sattı Yazar Investing.com - Investing.com Türkiye,OTHER,UNKNOWN,0.9825,0.0000,,UNLABELED,,,,
+2026-04-21T23:04:29Z,Yahoo Finance,"Stock market today: Dow, S&P 500, Nasdaq futures rise after Trump extends US-Iran ceasefire",INDEX,SPX,0.8161,0.6337,SPX,LABELED,INDEX,SPX,true,true
+2026-04-21T22:24:04Z,Investing.com Türkiye,Aehr Test Systems yöneticisi 610.270 dolar değerinde hisse sattı Yazar Investing.com - Investing.com Türkiye,STOCK,AEHR,0.8978,0.6042,AEHR,LABELED,STOCK,AEHR,true,true
+2026-04-21T22:24:01Z,Investing.com Türkiye,"Adaptive Biotechnologies COO 1,01 milyon dolarlık hisse sattı Yazar Investing.com - Investing.com Türkiye",STOCK,COO,0.7781,0.9540,COO,LABELED,STOCK,COO,true,true
+2026-04-21T22:23:55Z,Investing.com Türkiye,Porch Group CFO’su 65.866 dolarlık hisse sattı Yazar Investing.com - Investing.com Türkiye,OTHER,UNKNOWN,0.9429,0.0000,,UNLABELED,,,,
+2026-04-21T22:20:13Z,Investing.com Türkiye,"Sitime EVP Sevalia 1,17 milyon dolarlık hisse sattı Yazar Investing.com - Investing.com Türkiye",OTHER,UNKNOWN,0.9085,0.0000,,UNLABELED,,,,
+2026-04-21T22:06:48Z,Investing.com Türkiye,D-Wave Quantum İK Direktörü 65.548 dolarlık hisse sattı Yazar Investing.com - Investing.com Türkiye,OTHER,UNKNOWN,0.9792,0.0000,,UNLABELED,,,,
+2026-04-21T22:01:52Z,Investing.com Türkiye,FuelCell Energy EVP Achanta Shankar 20.000 dolarlık hisse sattı Yazar Investing.com - Investing.com Türkiye,OTHER,UNKNOWN,0.7787,0.0000,,UNLABELED,,,,
+2026-04-21T21:58:16Z,Investing.com Türkiye,Porch Group COO’su Matthew Neagle 464.286 dolar değerinde hisse sattı - Investing.com Türkiye,STOCK,COO,0.9482,0.5705,COO,LABELED,STOCK,COO,true,true
+2026-04-21T21:28:34Z,Investing.com Türkiye,"M&T Bank adi hisse senetlerinde 1,50 dolar temettü açıkladı Yazar Investing.com - Investing.com Türkiye",OTHER,UNKNOWN,0.9853,0.0000,,UNLABELED,,,,
+2026-04-21T21:28:31Z,Investing.com Türkiye,AIOS Tech 27 Nisan’da 20’ye 1 ters hisse bölümü uygulayacak - Investing.com Türkiye,STOCK,AIOS,0.4016,0.5482,AIOS,LABELED,STOCK,AIOS,true,true
+2026-04-21T21:28:31Z,Investing.com Türkiye,"Univest Securities, PMGC Holdings için 40 milyon dolarlık hisse senedi hattını kapattı - Investing.com Türkiye",OTHER,UNKNOWN,0.9751,0.0000,,UNLABELED,,,,
+2026-04-21T21:28:30Z,Investing.com Türkiye,"Dana hisse başına 0,12 dolar temettü açıkladı Yazar Investing.com - Investing.com Türkiye",OTHER,UNKNOWN,0.9756,0.0000,,UNLABELED,,,,
+2026-04-21T21:24:18Z,Investing.com Türkiye,"Dyne Therapeutics yöneticisi Dirk Kersten 6,8 milyon dolarlık hisse sattı - Investing.com Türkiye",OTHER,UNKNOWN,0.9558,0.0000,,UNLABELED,,,,
+2026-04-21T21:24:16Z,Investing.com Türkiye,"Astera Labs yöneticisi 4,3 milyon doların üzerinde hisse sattı Yazar Investing.com - Investing.com Türkiye",OTHER,UNKNOWN,0.9851,0.0000,,UNLABELED,,,,
+2026-04-21T21:24:16Z,Investing.com Türkiye,Nuvation Bio düzenleyici işler direktörü 184.279 dolar değerinde hisse sattı Yazar Investing.com - Investing.com Türkiye,OTHER,UNKNOWN,0.9815,0.0000,,UNLABELED,,,,
+2026-04-21T21:24:15Z,Investing.com Türkiye,"HPE CEO’su Neri 3,97 milyon dolarlık hisse sattı Yazar Investing.com - Investing.com Türkiye",OTHER,UNKNOWN,0.9816,0.0000,,UNLABELED,,,,
+2026-04-21T21:24:15Z,Investing.com Türkiye,Marqeta yöneticisi Najuma Atkinson 41.121 dolar değerinde hisse sattı Yazar Investing.com - Investing.com Türkiye,OTHER,UNKNOWN,0.9774,0.0000,,UNLABELED,,,,
+2026-04-21T21:24:12Z,Investing.com Türkiye,HPE yöneticisi 475.517 dolarlık hisse sattı Yazar Investing.com - Investing.com Türkiye,OTHER,UNKNOWN,0.9565,0.0000,,UNLABELED,,,,
+2026-04-21T21:24:12Z,Investing.com Türkiye,RCM Technologies CFO’su Kevin Miller 172.367 dolar hisse sattı Yazar Investing.com - Investing.com Türkiye,OTHER,UNKNOWN,0.8535,0.0000,,UNLABELED,,,,
+2026-04-21T21:24:12Z,Investing.com Türkiye,Remitly yöneticisi Riese 801.600 dolar değerinde hisse sattı Yazar Investing.com - Investing.com Türkiye,OTHER,UNKNOWN,0.9668,0.0000,,UNLABELED,,,,
+2026-04-21T21:24:10Z,Investing.com Türkiye,Rapport Therapeutics CDO Yeleswaram Krishnaswamy 808.844 dolarlık hisse sattı Yazar Investing.com - Investing.com Türkiye,OTHER,UNKNOWN,0.9787,0.0000,,UNLABELED,,,,
+2026-04-21T21:24:09Z,Investing.com Türkiye,HPE yöneticisi Neil MacDonald 654.975 dolar değerinde hisse sattı Yazar Investing.com - Investing.com Türkiye,OTHER,UNKNOWN,0.9186,0.0000,,UNLABELED,,,,
+2026-04-21T21:24:08Z,Investing.com Türkiye,"TransDigm yöneticisi Nicholas Howley 12,8 milyon dolarlık hisse sattı - Investing.com Türkiye",OTHER,UNKNOWN,0.7407,0.0000,,UNLABELED,,,,
+2026-04-21T21:24:07Z,Investing.com Türkiye,Dick’s Sporting Goods’un başkan yardımcısı 925 bin dolarlık hisse sattı - Investing.com Türkiye,OTHER,UNKNOWN,0.9812,0.0000,,UNLABELED,,,,
+2026-04-21T21:24:07Z,Investing.com Türkiye,Westwood Holdings: Direktör Emerita Susan Byrne 28.369 dolarlık hisse sattı Yazar Investing.com - Investing.com Türkiye,OTHER,UNKNOWN,0.9866,0.0000,,UNLABELED,,,,
+2026-04-21T21:24:05Z,Investing.com Türkiye,"Zoom Communications COO 1,13 milyon dolarlık hisse sattı Yazar Investing.com - Investing.com Türkiye",STOCK,COO,0.8969,0.9567,COO,LABELED,STOCK,COO,true,true
+2026-04-21T21:24:04Z,Investing.com Türkiye,Remitly CBO Pankaj Sharma 200.000 dolarlık hisse sattı Yazar Investing.com - Investing.com Türkiye,OTHER,UNKNOWN,0.8804,0.0000,,UNLABELED,,,,
+2026-04-21T21:18:05Z,Investing.com Türkiye,Bank of New York Mellon kontrolörü 719 bin dolarlık hisse sattı - Investing.com Türkiye,OTHER,UNKNOWN,0.9012,0.0000,,UNLABELED,,,,
+2026-04-21T21:17:58Z,Investing.com Türkiye,Samsara EVP Adam Eltoukhy 167.906 dolarlık hisse sattı Yazar Investing.com - Investing.com Türkiye,OTHER,UNKNOWN,0.9814,0.0000,,UNLABELED,,,,
+2026-04-21T21:17:42Z,Investing.com Türkiye,"Equitable Holdings CEO’su 1,65 milyon dolarlık hisse sattı Yazar Investing.com - Investing.com Türkiye",OTHER,UNKNOWN,0.8889,0.0000,,UNLABELED,,,,
+2026-04-21T21:00:27Z,Reuters,Adobe announces $25 billion stock buyback amid AI disruption fears - Reuters,OTHER,UNKNOWN,0.5232,0.0000,,UNLABELED,,,,
+2026-04-21T20:46:14Z,The Economist,Global energy markets are on the verge of a disaster - The Economist,OTHER,UNKNOWN,0.9674,0.0000,,UNLABELED,,,,
+2026-04-21T20:41:35Z,Yahoo Finance,A New York Suit Called Prediction Markets 'Illegal' Gambling. That Hit These Crypto Stocks - Yahoo Finance,OTHER,UNKNOWN,0.9845,0.0000,,UNLABELED,,,,
+2026-04-21T20:33:00Z,Investor's Business Daily,Stock Market Today: Stock Market News And Analysis - Investor's Business Daily,OTHER,UNKNOWN,0.9701,0.0000,,UNLABELED,,,,
+2026-04-21T20:28:52Z,Investing.com Türkiye,Surf Air Mobility hisse senedi arzından 15 milyon dolar topladı Yazar Investing.com - Investing.com Türkiye,OTHER,UNKNOWN,0.9825,0.0000,,UNLABELED,,,,
+2026-04-21T20:28:49Z,Investing.com Türkiye,Calix yönetim kurulu 100 milyon dolarlık hisse geri alımını onayladı Yazar Investing.com - Investing.com Türkiye,OTHER,UNKNOWN,0.9780,0.0000,,UNLABELED,,,,
+2026-04-21T20:28:49Z,Investing.com Türkiye,"Getty Realty hisse başına 0,485 dolar temettü açıkladı Yazar Investing.com - Investing.com Türkiye",OTHER,UNKNOWN,0.9820,0.0000,,UNLABELED,,,,
+2026-04-21T20:24:59Z,Investing.com Türkiye,"Incyte başkanı 1,8 milyon dolarlık hisse sattı, 1,2 milyon dolarlık hisse aldı Yazar Investing.com - Investing.com Türkiye",OTHER,UNKNOWN,0.9553,0.0000,,UNLABELED,,,,
+2026-04-21T20:24:59Z,Investing.com Türkiye,XCF Global’in Randy Soule’u 656.151 dolar değerinde hisse sattı - Investing.com Türkiye,OTHER,UNKNOWN,0.9747,0.0000,,UNLABELED,,,,
+2026-04-21T20:24:56Z,Investing.com Türkiye,"Credit Acceptance İnsan Kaynakları Direktörü 2,14 milyon dolarlık hisse sattı - Investing.com Türkiye",OTHER,UNKNOWN,0.6948,0.0000,,UNLABELED,,,,
+2026-04-21T20:24:54Z,Investing.com Türkiye,"Travelers’ın EVP’si Klenk 1,96 milyon dolarlık hisse sattı - Investing.com Türkiye",OTHER,UNKNOWN,0.7163,0.0000,,UNLABELED,,,,
+2026-04-21T20:24:52Z,Investing.com Türkiye,Airgain eski CTO’su Ali şirketten 6.210 dolar değerinde hisse sattı - Investing.com Türkiye,OTHER,UNKNOWN,0.9798,0.0000,,UNLABELED,,,,
+2026-04-21T20:23:43Z,Investing.com Türkiye,"Evercore ISI, UnitedHealth hisse hedefini 400 dolara yükseltti Yazar Investing.com - Investing.com Türkiye",OTHER,UNKNOWN,0.9835,0.0000,,UNLABELED,,,,
+2026-04-21T20:18:45Z,Investing.com Türkiye,"Capital One ilk çeyrekte beklentileri karşılayamadı, hisse %6 düştü Yazar Investing.com - Investing.com Türkiye",OTHER,UNKNOWN,0.9765,0.0000,,UNLABELED,,,,
+2026-04-21T19:25:11Z,Investing.com Türkiye,Great Southern Bancorp başkan yardımcısı 168.975 dolar değerinde hisse sattı - Investing.com Türkiye,OTHER,UNKNOWN,0.9700,0.0000,,UNLABELED,,,,
+2026-04-21T19:10:20Z,The Economist,The stablecoin market has got too stable - The Economist,OTHER,UNKNOWN,0.6499,0.0000,,UNLABELED,,,,
+2026-04-21T18:33:13Z,Investing.com Türkiye,Kalshi önümüzdeki haftalarda kripto kalıcı vadeli işlemleri başlatacak Yazar Investing.com - Investing.com Türkiye,OTHER,UNKNOWN,0.9647,0.0000,,UNLABELED,,,,
+2026-04-21T17:53:00Z,Fortune,Florida and Texas are the biggest losers in the housing market as Ohio emerges a surprise winner - Fortune,OTHER,UNKNOWN,0.8181,0.0000,,UNLABELED,,,,
+2026-04-21T17:36:59Z,Seeking Alpha,Putting In A Stock Market Top (SP500) - Seeking Alpha,INDEX,SPX,0.9521,0.9779,,LABELED,INDEX,SPX,true,true
+2026-04-21T17:30:26Z,Yahoo Finance,Boeing Q1 results top estimates as improving jet deliveries cut losses,OTHER,UNKNOWN,0.9647,0.0000,,UNLABELED,,,,
+2026-04-21T16:54:51Z,Yahoo Finance,New Apple CEO John Ternus faces 7 big challenges as Tim Cook steps down - Yahoo Finance,STOCK,AAPL,0.9808,0.1828,AAPL,LABELED,STOCK,AAPL,true,true
+2026-04-21T16:45:00Z,The Motley Fool,Why May 15 Could Be a Huge Day for the Stock Market - The Motley Fool,OTHER,UNKNOWN,0.8773,0.0000,,UNLABELED,,,,
+2026-04-21T16:35:34Z,WRAL,Bear market in Bull City: Black bear spotted in Durham - WRAL,OTHER,UNKNOWN,0.9803,0.0000,,UNLABELED,,,,
+2026-04-21T15:39:53Z,Anadolu Ajansı,Borsa günü düşüşle tamamladı - Anadolu Ajansı,OTHER,UNKNOWN,0.4538,0.0000,,UNLABELED,,,,
+2026-04-21T14:43:47Z,Yahoo Finance,Beyond Meat stock is on a tear — here's why - Yahoo Finance,OTHER,UNKNOWN,0.9659,0.0000,,UNLABELED,,,,
+2026-04-21T14:07:20Z,Financial Times,"Oil market has lost a billion barrels due to Iran war, Vitol boss warns - Financial Times",COMMODITY,OIL,0.9701,0.1674,OIL,LABELED,COMMODITY,OIL,true,true
+2026-04-21T13:43:29Z,Yahoo Finance,"Avis stock surges again, bringing monthly gains north of 600% as short squeeze risk remains high - Yahoo Finance",OTHER,UNKNOWN,0.9856,0.0000,,UNLABELED,,,,
+2026-04-21T13:32:55Z,Yahoo Finance,UnitedHealth stock jumps 8% on earnings outlook beat - Yahoo Finance,OTHER,UNKNOWN,0.9555,0.0000,,UNLABELED,,,,
+2026-04-21T12:52:08Z,CNBC,"Trump surprised by stock market comeback amid Iran conflict, thought Dow would be down 20% - CNBC",OTHER,UNKNOWN,0.7782,0.0000,,UNLABELED,,,,
+2026-04-21T12:25:00Z,Yahoo Finance,"Rivian Stock Is Outrageously Cheap -- Here's Why There Could Be 5,000% in Upside Potential - Yahoo Finance",OTHER,UNKNOWN,0.9915,0.0000,,UNLABELED,,,,
+2026-04-21T12:21:46Z,CNBC,"Apple's next CEO, Warsh's confirmation hearing, the psychedelic stock surge and more in Morning Squawk - CNBC",STOCK,AAPL,0.9335,0.0075,AAPL,LABELED,STOCK,AAPL,true,true
+2026-04-21T11:17:19Z,Financial Times,Revolut aims for $200bn valuation in stock market listing - Financial Times,OTHER,UNKNOWN,0.6396,0.0000,,UNLABELED,,,,
+2026-04-21T11:07:05Z,CNBC,"This cybersecurity stock has room to run following Claude Mythos release, KeyBanc says - CNBC",OTHER,UNKNOWN,0.9848,0.0000,,UNLABELED,,,,
+2026-04-21T10:06:05Z,Yahoo Finance,US Stock Market Today S&P 500 Futures Edge Higher On Softer Inflation Signals - Yahoo Finance,INDEX,SPX,0.9747,0.9902,SPX,LABELED,INDEX,SPX,true,true
+2026-04-21T10:01:02Z,Yahoo Finance,"Peter Schiff Alleges Market Manipulation As $760 Million Bet Draws Scrutiny—Iran Parliamentary Speaker Calls Oil Futures, Treasuries 'House Of Cards' - Yahoo Finance",COMMODITY,OIL,0.9854,0.5527,OIL,LABELED,COMMODITY,OIL,true,true
+2026-04-21T08:55:00Z,The Motley Fool,The Stock Market Flashes a Warning as Investors Get Bad News About President Trump's Economy. History Says This Will Happen Next. - The Motley Fool,OTHER,UNKNOWN,0.9898,0.0000,,UNLABELED,,,,
+2026-04-21T07:03:43Z,Inside Higher Ed,3-Year Degree Misreads the Future Job Market (opinion) - Inside Higher Ed,OTHER,UNKNOWN,0.4163,0.0000,,UNLABELED,,,,
+2026-04-21T02:27:00Z,CNN,Japan opens door to global arms market with biggest export rule change in decades - CNN,OTHER,UNKNOWN,0.9870,0.0000,,UNLABELED,,,,
+2026-04-21T00:55:00Z,Reuters,Japan opens door to global arms market with overhaul of defence export rules - Reuters,OTHER,UNKNOWN,0.9845,0.0000,,UNLABELED,,,,
+2026-04-21T00:36:08Z,BBC,James Bond and prog rock to feature in 2026 Proms - BBC,OTHER,UNKNOWN,0.9747,0.0000,,UNLABELED,,,,
+2026-04-21T00:34:44Z,TheStreet,Major bank identifies surprising trend for American crypto investors,OTHER,UNKNOWN,0.9694,0.0000,,UNLABELED,,,,
+2026-04-20T22:31:00Z,WSJ,"Anthropic, Amazon Tighten Bond in $5 Billion Investment and Computing Deal - WSJ",OTHER,UNKNOWN,0.5928,0.0000,,UNLABELED,,,,
+2026-04-20T12:00:00Z,WSJ,College Graduates Are Finally Catching a Break in This Job Market - WSJ,OTHER,UNKNOWN,0.9813,0.0000,,UNLABELED,,,,
+2026-04-20T09:02:10Z,The New York Times,The Ferrari of Espresso Machines Is Fueling a Hot Resale Market - The New York Times,OTHER,UNKNOWN,0.9858,0.0000,,UNLABELED,,,,
+2026-04-20T08:28:32Z,TradingView,TSLA Hisse Fiyatı — Tesla Grafiği - TradingView,STOCK,TSLA,0.9388,0.4476,TSLA,LABELED,STOCK,TSLA,true,true
+2026-04-20T07:00:00Z,blackrock.com,Weekly market commentary - blackrock.com,OTHER,UNKNOWN,0.9339,0.0000,,UNLABELED,,,,
+2026-04-19T16:44:00Z,The Motley Fool,Should You Buy the Vanguard S&P 500 ETF With the Stock Market At a Fresh Record High? The Answer Might Surprise You. - The Motley Fool,INDEX,SPX,0.9383,0.9945,SPX,LABELED,INDEX,SPX,true,true
+2026-04-19T15:52:59Z,CNBC,Software stock dogs have joined market rally. There's a classic investing lesson in the rebound - CNBC,OTHER,UNKNOWN,0.9874,0.0000,,UNLABELED,,,,
+2026-04-19T08:16:38Z,Bloomberght,Abd 5 Yıllık Tahvil Grafiği - Bloomberght,OTHER,UNKNOWN,0.9551,0.0000,,UNLABELED,,,,
+2026-04-18T18:43:16Z,The Washington Post,Here’s what the stock market might have gotten wrong about the Iran war - The Washington Post,OTHER,UNKNOWN,0.9839,0.0000,,UNLABELED,,,,
+2026-04-18T11:00:20Z,The New York Times,Opinion | Why the Stock Market Makes No Sense Right Now - The New York Times,OTHER,UNKNOWN,0.9817,0.0000,,UNLABELED,,,,
+2026-04-18T02:30:00Z,The Motley Fool,The Stock Market Sounds an Alarm for the First Time in 25 Years. Here's Where History Says the S&P 500 Is Headed Next. - The Motley Fool,INDEX,SPX,0.9317,0.7407,SPX,LABELED,INDEX,SPX,true,true
+2026-04-17T07:00:00Z,Edward Jones,Weekly market wrap - Edward Jones,OTHER,UNKNOWN,0.9515,0.0000,,UNLABELED,,,,
+2026-04-16T07:00:00Z,U.S. Bank,Is a Market Correction Coming? - U.S. Bank,OTHER,UNKNOWN,0.9498,0.0000,,UNLABELED,,,,
+2026-04-15T16:52:00Z,The New York Times,Stocks Hit Record High as Wall St. Looks Beyond War - The New York Times,OTHER,UNKNOWN,0.9774,0.0000,,UNLABELED,,,,
+2026-04-13T07:00:00Z,CNBC,Jim Cramer's top 10 things to watch in the stock market Monday - CNBC,OTHER,UNKNOWN,0.9764,0.0000,,UNLABELED,,,,
+2026-04-02T07:00:00Z,blog.google,Give your laptop a new life with ChromeOS Flex - blog.google,STOCK,GOOG,0.9673,0.9812,GOOG,LABELED,STOCK,GOOG,true,true
+2026-04-01T07:00:00Z,CNBC,"Stock market is in for 'choppy, bumpy ride' in 2026, strategist says. Why it pays to stay invested - CNBC",OTHER,UNKNOWN,0.9915,0.0000,,UNLABELED,,,,
+2026-04-22T13:13:10Z,Insider Monkey,Vulcan Value Partners Sold CoStar Group (CSGP) Due to Poor Capital Allocation,STOCK,CSGP,0.9772,0.5601,CSGP,LABELED,STOCK,CSGP,true,true
+2026-04-22T13:07:17Z,Insider Monkey,What Makes ServiceNow (NOW) One of the Best Businesses In the World?,STOCK,UNKNOWN,0.6090,0.0000,,UNLABELED,,,,
+2026-04-22T13:07:01Z,S&P Global,First Farmers Financial announces 2-for-1 stock split - S&P Global,STOCK,UNKNOWN,0.5728,0.0000,,UNLABELED,,,,
+2026-04-22T13:07:00Z,Barrons.com,Nvidia Is Hovering Around $200. What Can ‘Move the Needle’ for the Stock.,STOCK,NVDA,0.9764,0.9831,NVDA,LABELED,STOCK,NVDA,true,true
+2026-04-22T13:05:56Z,Hunton Andrews Kurth LLP,Brit Dufilho Named Co-Head of Hunton’s Structured Finance and Securitization Practice - Hunton Andrews Kurth LLP,OTHER,UNKNOWN,0.2952,0.0000,,UNLABELED,,,,
+2026-04-22T13:05:08Z,24/7 Wall St.,"The PayPal Mafia Built Tesla, LinkedIn, and YouTube. Why Is PayPal Stock Still Down 81%?",STOCK,TSLA,0.9764,0.0130,TSLA,LABELED,STOCK,TSLA,true,true
+2026-04-22T13:05:00Z,Motley Fool,"The Best Artificial Intelligence (AI) Stocks to Buy With $1,000 Right Now",OTHER,UNKNOWN,0.9542,0.0000,,UNLABELED,,,,
+2026-04-22T13:04:00Z,CryptoProwl,Core Scientific Sells $3.3 Billion Of Bonds To Fund Data Centre Pivot,STOCK,UNKNOWN,0.4099,0.0000,,UNLABELED,,,,
+2026-04-22T13:03:57Z,Investor's Business Daily,"Tesla Earnings, Elon Musk Due With Stock Near Key Levels; What To Expect",STOCK,TSLA,0.9771,0.9898,TSLA,LABELED,STOCK,TSLA,true,true
+2026-04-22T13:00:13Z,Investor's Business Daily,Seagate Stock Upgraded To Buy Rating. Why There Is 'Another Leg' To AI-Fueled Rally.,OTHER,UNKNOWN,0.9796,0.0000,,UNLABELED,,,,
+2026-04-22T13:00:00Z,PR Newswire,"ICIMS Awarded for AI, Enterprise Scale and Labor Market Intelligence - PR Newswire",OTHER,UNKNOWN,0.9808,0.0000,,UNLABELED,,,,
+2026-04-22T13:00:00Z,PR Newswire,"Prophix® Launches Next Wave of Prophix One™ Agents, Defining the Delegation Era for Finance - PR Newswire",OTHER,UNKNOWN,0.9830,0.0000,,UNLABELED,,,,
+2026-04-22T12:59:49Z,Investor's Business Daily,Stock Market Today: Dow Rises On Trump Ceasefire; Tesla Earnings Due (Live Coverage),STOCK,TSLA,0.7495,0.0758,TSLA,LABELED,STOCK,TSLA,true,true
+2026-04-22T12:59:10Z,Insider Monkey,Should You Be Bullish on ServiceNow (NOW)?,OTHER,UNKNOWN,0.9500,0.0000,,UNLABELED,,,,
+2026-04-22T12:58:00Z,Barrons.com,"Forget Memory, Power Chips Are the Next Hot AI Play. These 6 Stocks Are Surging.",OTHER,UNKNOWN,0.9781,0.0000,,UNLABELED,,,,
+2026-04-22T12:56:00Z,Proactive,Graphene Manufacturing Group appoints former Rio Tinto executive to drive production growth,OTHER,UNKNOWN,0.9743,0.0000,,UNLABELED,,,,
+2026-04-22T12:53:00Z,WCAX,"New York sues Coinbase and Gemini, seeking to halt unlicensed prediction market businesses - WCAX",OTHER,UNKNOWN,0.6226,0.0000,,UNLABELED,,,,
+2026-04-22T12:51:30Z,Investor's Business Daily,Boston Scientific Slashes Guidance; Why Shares Rallied,OTHER,UNKNOWN,0.1465,0.0000,,UNLABELED,,,,
+2026-04-22T12:51:12Z,POWER Magazine,"DTEK Will Build $1.4-Billion, 650-MW Wind Farm in Ukraine",OTHER,UNKNOWN,0.9723,0.0000,,UNLABELED,,,,
+2026-04-22T12:51:00Z,CryptoProwl,Justin Sun Sues Trump-Backed World Liberty Financial Over $75 Million Token Freeze,OTHER,UNKNOWN,0.9717,0.0000,,UNLABELED,,,,
+2026-04-22T12:51:00Z,Barrons.com,Why Coinbase and Robinhood Are Among the S&P 500’s Biggest Risers Today,INDEX,SPX,0.9636,0.6158,SPX,LABELED,INDEX,SPX,true,true
+2026-04-22T12:50:45Z,CoinDesk,"Kraken, 2025 yılı için 56 milyon kripto vergi formu sundu. Üçte biri 1$'ın altındaydı - CoinDesk",OTHER,UNKNOWN,0.9858,0.0000,,UNLABELED,,,,
+2026-04-22T12:50:36Z,Yahoo Finance,One Elon Musk superpower to remember on Tesla earnings day,STOCK,TSLA,0.5152,0.0777,TSLA,LABELED,STOCK,TSLA,true,true
+2026-04-22T12:49:00Z,Barrons.com,Trump Media CEO Exits Suddenly. Why the Stock Plunged 63% in a Year.,OTHER,UNKNOWN,0.9729,0.0000,,UNLABELED,,,,
+2026-04-22T12:49:00Z,Moneywise,"‘Can I have some, please?’: Trump jokes as he signs psychedelics order after Joe Rogan push. These stocks soar",OTHER,UNKNOWN,0.9887,0.0000,,UNLABELED,,,,
+2026-04-22T12:48:48Z,asicentral.com,Big Markets: Supercharge Your Finance Promo Products Sales in 2026 - asicentral.com,OTHER,UNKNOWN,0.5798,0.0000,,UNLABELED,,,,
+2026-04-22T12:46:00Z,CryptoProwl,Cathie Wood: The Days of Big Crashes in Bitcoin Are Over,CRYPTO,BTC,0.9657,0.6066,BTC,LABELED,CRYPTO,BTC,true,true
+2026-04-22T12:44:40Z,CNBC,"The Pre-Market Rundown 2: April 22, 2026 - CNBC",OTHER,UNKNOWN,0.9712,0.0000,,UNLABELED,,,,
+2026-04-22T12:43:41Z,Insider Monkey,Autodesk (ADSK) Strengthened from Its Transition to a Subscription-Based Cloud Platform,STOCK,ADSK,0.9680,0.4299,ADSK,LABELED,STOCK,ADSK,true,true
+2026-04-22T12:39:46Z,Insider Monkey,Here’s Nightview Fund’s Views on NVIDIA (NVDA),STOCK,NVDA,0.3570,0.5519,NVDA,LABELED,STOCK,NVDA,true,true
+2026-04-22T12:36:59Z,Investing.com Türkiye,"Lifezone Metals hisse başına 4,40 dolardan 25 milyon dolar topladı Yazar Investing.com - Investing.com Türkiye",OTHER,UNKNOWN,0.9852,0.0000,,UNLABELED,,,,
+2026-04-22T12:35:00Z,FreightWaves,Gnosis Freight adds Walmart veteran Gary Adams to its board,OTHER,UNKNOWN,0.9676,0.0000,,UNLABELED,,,,
+2026-04-22T12:31:57Z,haberler.bogazici.edu.tr,Boğaziçi Üniversitesi ve Cumhurbaşkanlığı Yatırım ve Finans Ofisi'nden Stratejik İşbirliği - haberler.bogazici.edu.tr,OTHER,UNKNOWN,0.9735,0.0000,,UNLABELED,,,,
+2026-04-22T12:30:00Z,Yahoo Finance,Outlook Therapeutics Announces $5.0 Million Registered Direct Offering Priced At-the-Market Under Nasdaq Rules - Yahoo Finance,OTHER,UNKNOWN,0.9818,0.0000,,UNLABELED,,,,
+2026-04-22T12:29:26Z,Investing.com Türkiye,Yatırımcılar ABD hisse senetlerinde düşüşe mi geçiyor? BofA çıkışlara dikkat çekti - Investing.com Türkiye,OTHER,UNKNOWN,0.9763,0.0000,,UNLABELED,,,,
+2026-04-22T12:28:08Z,Insider Monkey,What Makes Tesla (TSLA) a Long-Term Holding?,STOCK,TSLA,0.9551,0.5570,TSLA,LABELED,STOCK,TSLA,true,true
+2026-04-22T12:27:00Z,Yahoo Finance,This Niche E‑Commerce Stock Has Been Cut in Half Since 2023 -- Here's Why It's About to Go Parabolic - Yahoo Finance,OTHER,UNKNOWN,0.9927,0.0000,,UNLABELED,,,,
+2026-04-22T12:25:44Z,CoinDesk,"Kuzey Kore destekli hackerlar, kripto yöneticilerini ve firmalarını hedef alan yeni saldırı vektörünü duyurdu - CoinDesk",OTHER,UNKNOWN,0.9727,0.0000,,UNLABELED,,,,
+2026-04-22T12:24:01Z,Mainebiz,Evernorth fund will help finance three housing developments in Maine - Mainebiz,OTHER,UNKNOWN,0.9817,0.0000,,UNLABELED,,,,
+2026-04-22T12:23:59Z,The Villanovan,KKR Is Still a Buy: Why the Market Undervalues the New KKR - The Villanovan,OTHER,UNKNOWN,0.7694,0.0000,,UNLABELED,,,,
+2026-04-22T12:22:43Z,CNBC,"Ceasefire extension, Best Buy's new CEO, Amazon's GLP-1 push and more in Morning Squawk - CNBC",OTHER,UNKNOWN,0.9863,0.0000,,UNLABELED,,,,
+2026-04-22T12:17:00Z,CBS News,Early voting is open for Texas municipal elections. Here are the school bond elections on North Texas ballots. - CBS News,STOCK,TXRH,0.7343,0.2343,,UNLABELED,,,,
+2026-04-22T12:16:47Z,Investor's Business Daily,"Google Cloud: New AI Accelerators, Enterprise Agentic Platform Debut",STOCK,GOOG,0.5678,0.4466,GOOG,LABELED,STOCK,GOOG,true,true
+2026-04-22T12:15:28Z,Investing.com Türkiye,"Mobix Labs hisse fiyatı toparlandı, Nasdaq uyumluluğunu geri kazandı Yazar Investing.com - Investing.com Türkiye",OTHER,UNKNOWN,0.9783,0.0000,,UNLABELED,,,,
+2026-04-22T12:15:06Z,Insider Monkey,AI Capabilities Deliver Greater Value to Shopify (SHOP),STOCK,SHOP,0.9581,0.0425,SHOP,LABELED,STOCK,SHOP,true,true
+2026-04-22T12:13:45Z,Reuters,Robinhood's venture fund invests $75 million in OpenAI,OTHER,UNKNOWN,0.9677,0.0000,,UNLABELED,,,,
+2026-04-22T12:13:23Z,Yahoo Finance,1 Profitable Stock to Target This Week and 2 We Brush Off - Yahoo Finance,OTHER,UNKNOWN,0.5966,0.0000,,UNLABELED,,,,
+2026-04-22T12:13:02Z,Investor's Business Daily,A Micron And Western Digital Peer Flashes Fresh Buy Zone With Earnings On Tap,STOCK,UNKNOWN,0.3730,0.0000,,UNLABELED,,,,
+2026-04-22T12:12:39Z,Insider Monkey,What Makes Axon Enterprise (AXON) a Compelling Investment Opportunity?,STOCK,AXON,0.9695,0.0063,AXON,LABELED,STOCK,AXON,true,true
+2026-04-22T12:06:59Z,S&P Global,KeyCorp to acquire UK-based Clearwater Corporate Finance - S&P Global,OTHER,UNKNOWN,0.3555,0.0000,,UNLABELED,,,,
+2026-04-22T12:06:58Z,Reuters,The 38‑year‑old betting her retirement on crypto - Reuters,OTHER,UNKNOWN,0.9662,0.0000,,UNLABELED,,,,
+2026-04-22T12:06:18Z,Insider Monkey,Riverwater Sustainable Value Strategy Exited Its Position in Lazard (LAZ) in Q1,OTHER,UNKNOWN,0.9733,0.0000,,UNLABELED,,,,
+2026-04-22T12:06:01Z,Yahoo Finance,UK targets illegal crypto trading in London crackdown - Yahoo Finance,STOCK,UK,0.9493,0.6185,UK,LABELED,STOCK,UK,true,true
+2026-04-22T12:04:24Z,Insider Monkey,Here’s Why Riverwater Sustainable Value Strategy Exited Western Alliance Bancorporation (WAL) in Q1,OTHER,UNKNOWN,0.5824,0.0000,,UNLABELED,,,,
+2026-04-22T12:03:08Z,Reuters,Google puts AI agents at heart of its enterprise money-making push,STOCK,GOOG,0.9731,0.4492,GOOG,LABELED,STOCK,GOOG,true,true
+2026-04-22T12:00:59Z,Investor's Business Daily,36 S&P 500 Stocks Blew Away Tim Cook's Apple With Less Fanfare,INDEX,SPX,0.2994,0.3220,SPX,LABELED,INDEX,SPX,true,true
+2026-04-22T12:00:35Z,Investor's Business Daily,Microsoft Higher Ahead Of Magnificent Seven Earnings; Is Microsoft A Buy Now?,STOCK,MSFT,0.9739,0.4868,MSFT,LABELED,STOCK,MSFT,true,true
+2026-04-22T12:00:31Z,Investor's Business Daily,Coinbase Sinks Amid Quantum Hack Risk; Is Coinbase Stock A Sell Now?,OTHER,UNKNOWN,0.9673,0.0000,,UNLABELED,,,,
+2026-04-22T12:00:00Z,Yahoo Finance,7 Ways To Win At Salary Negotiation In A Tough Job Market - Yahoo Finance,OTHER,UNKNOWN,0.8322,0.0000,,UNLABELED,,,,
+2026-04-22T12:00:00Z,Yahoo Finance,"ChargePoint Launches Express Solo, the World’s Fastest Standalone Charger for Mass-Market Passenger Vehicles - Yahoo Finance",OTHER,UNKNOWN,0.9853,0.0000,,UNLABELED,,,,
+2026-04-22T12:00:00Z,Yahoo Finance,"S&H Rugs Announces Return to High Point Market for Spring 2026, Unveiling a Curated Collection of Modern and Traditional Hand-Knotted Rugs - Yahoo Finance",OTHER,UNKNOWN,0.8428,0.0000,,UNLABELED,,,,
+2026-04-22T11:51:54Z,Yahoo Finance,Netflix's next attempt at growth takes on TikTok and Instagram Reels - Yahoo Finance,OTHER,UNKNOWN,0.9811,0.0000,,UNLABELED,,,,
+2026-04-22T11:45:23Z,Yahoo Finance,Boeing Q1 results top estimates as improving jet deliveries cut losses - Yahoo Finance,OTHER,UNKNOWN,0.9905,0.0000,,UNLABELED,,,,
+2026-04-22T11:33:59Z,Yahoo Finance,"Bitcoin jumps to $78,000 as Trump extends Iran ceasefire - Yahoo Finance",CRYPTO,BTC,0.9374,0.9876,BTC,LABELED,CRYPTO,BTC,true,true
+2026-04-22T11:18:56Z,Yahoo Finance,"Gold and silver prices today, Wednesday, April 22: Prices open at their lowest levels in a week - Yahoo Finance",COMMODITY,SILVER,0.9735,0.1228,SILVER,LABELED,COMMODITY,SILVER,true,true
+2026-04-22T11:10:00Z,Yahoo Finance UK,Maritime Security Services Market Report 2026 - Yahoo Finance UK,OTHER,UNKNOWN,0.9269,0.0000,,UNLABELED,,,,
+2026-04-22T11:01:44Z,Axios,The AI trade is back on - Axios,OTHER,UNKNOWN,0.9412,0.0000,,UNLABELED,,,,
+2026-04-22T11:00:00Z,Yahoo Finance,Here's How Much Intel Stock Is Expected to Move After Earnings - Yahoo Finance,OTHER,UNKNOWN,0.6571,0.0000,,UNLABELED,,,,
+2026-04-22T10:50:36Z,Foreks,ForInvest Haber borsa kapanış tahmini anketi sonuçlandı - Foreks,OTHER,UNKNOWN,0.9722,0.0000,,UNLABELED,,,,
+2026-04-22T10:32:00Z,WSJ,Basic Materials Roundup: Market Talk - WSJ,OTHER,UNKNOWN,0.3597,0.0000,,UNLABELED,,,,
+2026-04-22T10:10:17Z,NTV Haber,"Yatırımcılar dikkat, takas tarihleri değişiyor. 23 Nisan'da (yarın) Borsa İstanbul açık mı/kapalı mı? - NTV Haber",OTHER,UNKNOWN,0.9885,0.0000,,UNLABELED,,,,
+2026-04-22T03:47:00Z,The Motley Fool,Coinbase vs. Bitcoin: Why the Crypto Stock Is a Better Buy - The Motley Fool,CRYPTO,BTC,0.9564,0.6171,BTC,LABELED,CRYPTO,BTC,true,true
+2026-04-22T00:37:00Z,TheStreet,Warren Buffett dumped 77% of Amazon to buy surging media stock,OTHER,UNKNOWN,0.9724,0.0000,,UNLABELED,,,,
+2026-04-21T22:13:53Z,Bloomberg.com,Stocks Rise on Big Earnings Day as Brent Hits $100: Markets Wrap - Bloomberg.com,COMMODITY,BRENT,0.4806,0.2599,BRENT,LABELED,COMMODITY,BRENT,true,true
+2026-04-20T15:30:06Z,Bloomberght,"Piyasa özeti: 20 Nisan 2026 Borsa, Döviz, Altın ve Kripto piyasalarındaki son durum - Bloomberght",COMMODITY,XAUUSD,0.6447,0.0782,XAUUSD,LABELED,COMMODITY,XAUUSD,true,true
+2026-04-20T01:00:00Z,WSJ,"Stocks Are Back at Records, but Bond Investors Haven’t Joined the Party - WSJ",OTHER,UNKNOWN,0.9824,0.0000,,UNLABELED,,,,
+2026-04-19T11:20:34Z,Bloomberght,Kriptoda 293 milyon dolarlık korsanlık - Bloomberght,OTHER,UNKNOWN,0.5455,0.0000,,UNLABELED,,,,
+2026-04-13T10:44:16Z,Yahoo Finance,"Earnings live updates: UnitedHealth stock jumps on upbeat guidance, Tesla and others report this week",STOCK,TSLA,0.9776,0.0230,TSLA,LABELED,STOCK,TSLA,true,true
+2026-03-30T12:00:00Z,Yahoo Personal Finance,How to invest in silver: A beginner's guide,COMMODITY,SILVER,0.9551,0.9786,SILVER,LABELED,COMMODITY,SILVER,true,true

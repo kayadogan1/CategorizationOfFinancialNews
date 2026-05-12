@@ -1,0 +1,22 @@
+══════════════════════════════════════════
+   DATASET İSTATİSTİKLERİ
+══════════════════════════════════════════
+
+Toplam örnek  : 1,997,103
+  Train       : 1,397,040  (70.0%)
+  Dev         : 310,360  (15.5%)
+  Test        : 289,703  (14.5%)
+
+Enstrüman sayısı: 3765
+
+Asset type dağılımı:
+  STOCK        : 3668
+  FOREX        : 20
+  CRYPTO       : 19
+  COMMODITY    : 14
+  FUND         : 12
+  VIOP         : 12
+  INDEX        : 11
+  BOND         : 9
+
+Hard negative : 3888 (0.2% of total)

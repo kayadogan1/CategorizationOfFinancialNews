@@ -1,0 +1,44 @@
+raw_total=559
+labeled_total=315
+unlabeled_total=244
+predicted_unknown_symbol=246
+lexicon_override_count=310
+labeled_level1_accuracy=99.68% (314/315)
+labeled_level2_accuracy=100.00% (315/315)
+
+[predicted_type_counts]
+STOCK=258
+INDEX=17
+CRYPTO=16
+FOREX=8
+COMMODITY=17
+BOND=3
+VIOP=2
+OTHER=238
+
+[unlabeled_review]
+- [Retail Banker International] UK’s FCA names eight banks for AI testing | tahmin=STOCK/UNKNOWN | skor=0.1785/0.0000
+- [Investing.com Türkiye] Old National hisse başına kazanç tahminini aştı ancak gelir beklentinin altında kaldı - Investing.com Türkiye | tahmin=OTHER/UNKNOWN | skor=0.6178/0.0000
+- [24/7 Wall St.] Passive Income Investors Are Grabbing These 6% Dividend Stocks Hand-Over-Fist | tahmin=OTHER/UNKNOWN | skor=0.9707/0.0000
+- [Private Banker International] FL Putnam buys Michigan RIA Arcadia | tahmin=OTHER/UNKNOWN | skor=0.9202/0.0000
+- [Investor's Business Daily] Boeing Trounces Estimates, FAA Sees Path To Key Certifications | tahmin=OTHER/UNKNOWN | skor=0.2156/0.0000
+- [Investing.com Türkiye] Boeing teslimatlar arttıkça tahminleri aştı, hisse fırladı Yazar Investing.com - Investing.com Türkiye | tahmin=OTHER/UNKNOWN | skor=0.9799/0.0000
+- [Investor's Business Daily] AT&T Earnings Top Views, Revenue In-Line Amid 'Convergence' Push | tahmin=OTHER/UNKNOWN | skor=0.9680/0.0000
+- [Moneywise] Meta seeks workers with no experience for data center jobs amid AI-driven shortage | tahmin=OTHER/UNKNOWN | skor=0.9808/0.0000
+- [Private Banker International] Citi picks Advyzon for global UMA programme | tahmin=OTHER/UNKNOWN | skor=0.2015/0.0000
+- [CNBC] It's very hard not to be bullish on AI and crypto right now, says ProCap Financial's Anthony Pompliano - CNBC | tahmin=OTHER/UNKNOWN | skor=0.9889/0.0000
+- [Cushman & Wakefield] Anshul Jain on Strong Demand Outpacing Supply in India’s Office Market in Q1 2026 - Cushman & Wakefield | tahmin=OTHER/UNKNOWN | skor=0.9882/0.0000
+- [Motley Fool] Is CVS Health the Ultimate Value Stock to Buy Right Now? | tahmin=OTHER/UNKNOWN | skor=0.9383/0.0000
+- [Private Banker International] Zurich UK unit sets up UHNW-focused support service for advisers | tahmin=OTHER/UNKNOWN | skor=0.9722/0.0000
+- [24/7 Wall St.] If You Bought Coca-Cola When Buffett Did, Here’s What You Have Today | tahmin=OTHER/UNKNOWN | skor=0.9686/0.0000
+- [Insider Monkey] Roth Capital Raises PT on Vertiv (VRT), Here’s Why | tahmin=OTHER/UNKNOWN | skor=0.9605/0.0000
+- [Motley Fool] Walmart's Aerial Advantage: Drone Deliveries Can Boost Sales and Customer Loyalty | tahmin=OTHER/UNKNOWN | skor=0.9708/0.0000
+- [Yahoo Finance] We Ran A Stock Scan For Earnings Growth And Solution Financial (TSE:SFI) Passed With Ease - Yahoo Finance | tahmin=OTHER/UNKNOWN | skor=0.9842/0.0000
+- [Öz Finans-İş Sendikası] TÜHİS GENEL SEKRETERİ BAŞ, GENEL BAŞKANIMIZ EROĞLU'NU ZİYARET ETTİ - Öz Finans-İş Sendikası | tahmin=OTHER/UNKNOWN | skor=0.1890/0.0000
+- [Yahoo Finance] Forget This 9.4% Yielding Dividend Stock: 1 Rock‑Solid Income Stock That's Much Safer - Yahoo Finance | tahmin=OTHER/UNKNOWN | skor=0.8789/0.0000
+- [Reuters] Societe Generale takes on more crypto firms as clients, SG-FORGE CEO says - Reuters | tahmin=OTHER/UNKNOWN | skor=0.9926/0.0000
+- [Reuters] Societe Generale takes on more crypto firms as clients, SG-FORGE CEO says | tahmin=OTHER/UNKNOWN | skor=0.9731/0.0000
+- [Yahoo Finance] Stock Yards Bancorp Reports First Quarter Earnings of $36.6 Million or $1.24 Per Diluted Share - Yahoo Finance | tahmin=STOCK/FBNC | skor=0.4322/0.2476
+- [Insider Monkey] Why Coty Inc (COTY) Won’t Touch These Brands in Its Strategic Review | tahmin=OTHER/UNKNOWN | skor=0.9742/0.0000
+- [Insider Monkey] Will UWM Holdings Corp (UWMC) Go to the Mat to Get Two Harbors? | tahmin=OTHER/UNKNOWN | skor=0.9679/0.0000
+- [Insider Monkey] Nuvation Bio Inc (NUVB): Take a Look at Glioma Revenue Potential | tahmin=OTHER/UNKNOWN | skor=0.9678/0.0000
